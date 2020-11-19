@@ -2,12 +2,20 @@ import requests
 import re
 import pandas as pd
 import numpy as np
+import csv
 from bs4 import BeautifulSoup
 
 
 class Album:
 
     def __init__(self, album_info, tag, position, pub):
+        '''
+        Creates an Album object
+        Inputs: album_info (str): concatenated artist and album title
+                tag: a BeautifulSoup tag object
+                position (str): the position on a list
+                pub (str): the publication title
+        '''
         id_split = re.split(r'\s-\s', album_info)
         self.artist, self.title = id_split
         self.position = position
@@ -23,6 +31,9 @@ class Album:
         self.publication = pub
 
     def get_album(self):
+        '''
+        Method to get a list of the relevant fields for an Album object
+        '''
         print('Getting', str(self), '\n-----------')
         return [self.position, self.artist, self.title, self.genre,
                 self.date, self.spotify]
@@ -64,4 +75,19 @@ def get_list(url, pub):
         tag = tag.find_next('div', {'class': ['albumListCover mustHear', 'albumListCover']})
 
     return table_data
+
+
+def write_to_csv(table_data, filename):
+    '''
+    Write scraped data to a csv file
+    Inputs: table_data (list of lists)
+            filename (str)
+    '''
+
+    with open(filename, 'w', newline='') as f:
+        writer = csv.writer(f)
+        writer.writerows(table_data)
+
+
+# if __name__ == '__main__':
 
