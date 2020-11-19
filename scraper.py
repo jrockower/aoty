@@ -1,11 +1,12 @@
 import requests
 import re
-import pandas as pd
-import numpy as np
 import csv
 import argparse
+import pandas as pd
+from oauth2client.service_account import ServiceAccountCredentials
+import gspread
+from df2gspread import df2gspread as d2g
 from bs4 import BeautifulSoup
-
 
 class Album:
 
@@ -89,10 +90,40 @@ def write_to_csv(table_data, filename):
         writer.writerows(table_data)
 
 
+def push_to_gsheets(path, cred):
+    '''
+    Push a Pandas dataframe to Google Sheets
+    Input: path (str) - path to csv
+           cred (str) - credentials file name
+    '''
+
+    print('\nUploading to Google Sheets...\n')
+    scope = ['https://spreadsheets.google.com/feeds',
+            'https://www.googleapis.com/auth/drive']
+
+    credentials = ServiceAccountCredentials.from_json_keyfile_name(
+        cred, scope)
+
+    gc = gspread.authorize(credentials)
+    df = pd.read_csv(path)
+    spreadsheet_key = '1vpxZunN4M8gvnsireG4TEPSlA-pxo8Ta9Y6Kj8zgWwg'
+    wks_name = 'raw'
+
+    d2g.upload(df, spreadsheet_key, wks_name,
+            credentials=credentials, row_names=True)
+
+    print('Done.')
+
+
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='AOTY Entry')
     parser.add_argument('--out', metavar='Export File Path', type=str,
                         default='output.csv')
+    parser.add_argument('--g', action='store_true',
+                        default=False)
+    parser.add_argument('--cred', metavar='Credentials Name', type=str,
+                        default='service_account.json')
+
     args = parser.parse_args()
 
     df = pd.DataFrame(columns=['Position', 'Publication',
@@ -106,3 +137,7 @@ if __name__ == '__main__':
 
     df.to_csv(args.out, index=False)
 
+    if args.g:
+        push_to_gsheets(args.out, args.cred)
+    else:
+        print('''\nSkipping Google Sheets Upload.\nIf you would like to upload to Google Sheets, please rerun using python3 scraper.py --g''')
