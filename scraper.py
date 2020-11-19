@@ -3,6 +3,7 @@ import re
 import pandas as pd
 import numpy as np
 import csv
+import argparse
 from bs4 import BeautifulSoup
 
 
@@ -19,7 +20,6 @@ class Album:
         id_split = re.split(r'\s-\s', album_info)
         self.artist, self.title = id_split
         self.position = position
-        print(album_info, position)
         self.date = tag.find_next('div', {'class': 'albumListDate'}).text
         self.genre = tag.find_next('div', {'class': 'albumListGenre'}).text
         try:
@@ -35,8 +35,8 @@ class Album:
         Method to get a list of the relevant fields for an Album object
         '''
         print('Getting', str(self), '\n-----------')
-        return [self.position, self.artist, self.title, self.genre,
-                self.date, self.spotify]
+        return [self.position, self.publication, self.artist, self.title,
+                self.genre, self.date, self.spotify]
 
     def __repr__(self):
         return self.artist + ' - ' + self.title + '\nPosition #' + \
@@ -89,5 +89,20 @@ def write_to_csv(table_data, filename):
         writer.writerows(table_data)
 
 
-# if __name__ == '__main__':
+if __name__ == '__main__':
+    parser = argparse.ArgumentParser(description='AOTY Entry')
+    parser.add_argument('--out', metavar='Export File Path', type=str,
+                        default='output.csv')
+    args = parser.parse_args()
+
+    df = pd.DataFrame(columns=['Position', 'Publication',
+                               'Artist', 'Title', 'Genre', 'Release Date',
+                               'Spotify Link'])
+
+    for line in open('args.txt', 'r'):
+        link, pub = line.split()
+        data = get_list(link, pub)
+        df = df.append(pd.DataFrame(data, columns=df.columns))
+
+    df.to_csv(args.out, index=False)
 
