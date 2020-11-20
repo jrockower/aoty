@@ -93,6 +93,8 @@ def reshape_data(df):
                           columns=["Publication"],
                           aggfunc='first').reset_index()
 
+    data.index.name = 'Index'
+
     return data
 
 
@@ -106,11 +108,13 @@ def calc_stats(df, pub_list):
 
     df[pub_list] = df[pub_list].apply(pd.to_numeric)
     df['avg'] = df[pub_list].mean(axis=1)
-    df['cons-score'] = (df[pub_list].sum(axis=1) + 75 *
+    df['cons_score'] = (df[pub_list].sum(axis=1) + 75 *
                         (len(pub_list) - df[pub_list].count(axis=1))) / len(pub_list)
     df['num_lists'] = df[pub_list].count(axis=1)
+    df['count_1'] = (df[pub_list] == 1).sum(1)
+    df['count_top10'] = (df[pub_list] <= 10).sum(1)
 
-    df.sort_values(by='cons-score', inplace=True)
+    df.sort_values(by='cons_score', inplace=True)
 
     return df
 
