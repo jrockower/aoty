@@ -82,16 +82,37 @@ def get_list(url, pub):
 def reshape_data(df):
     '''
     Reshape wide to long depending on how we would like to display the data.
+    Inputs: df - a Pandas dataframe
+    Returns: a tuple containing the reshaped data and the unique number of
+             publications
     '''
 
     data = df.pivot_table(index=["Artist", "Title", "Genre", "Release Date",
                                    "Spotify Link"],
                           values="Position",
-                          fill_value='',
                           columns=["Publication"],
                           aggfunc='first').reset_index()
 
     return data
+
+
+def calc_stats(df, pub_list):
+    '''
+    Calculate main metrics used for final workbook.
+    Input: df - a Pandas dataframe
+           pub_list (list) - list of publications
+    Returns: a Pandas dataframe with additional columns for stats
+    '''
+
+    df[pub_list] = df[pub_list].apply(pd.to_numeric)
+    df['avg'] = df[pub_list].mean(axis=1)
+    df['cons-score'] = (df[pub_list].sum(axis=1) + 75 *
+                        (len(pub_list) - df[pub_list].count(axis=1))) / len(pub_list)
+    df['num_lists'] = df[pub_list].count(axis=1)
+
+    df.sort_values(by='cons-score', inplace=True)
+
+    return df
 
 
 def push_to_gsheets(path, cred):
@@ -138,12 +159,16 @@ if __name__ == '__main__':
                                'Artist', 'Title', 'Genre', 'Release Date',
                                'Spotify Link'])
 
+    pub_list = []
     for line in open('args.txt', 'r'):
         link, pub = line.split()
+        pub_list.append(pub)
         data = get_list(link, pub)
         df = df.append(pd.DataFrame(data, columns=df.columns))
 
     df = reshape_data(df)
+    df = calc_stats(df, pub_list)
+
     df.to_csv(args.out, index=False)
 
     if args.g:
