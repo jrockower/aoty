@@ -1,101 +1,130 @@
-Position,Publication,Artist,Title,Genre,Release Date,Spotify Link
-1,Pitchfork,Lana Del Rey,Norman Fucking Rockwell!,Singer-Songwriter,"August 30, 2019",http://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A
-2,Pitchfork,FKA twigs,MAGDALENE,Art Pop,"November 8, 2019",http://open.spotify.com/album/2w8Wshbp9RCPJdPU1iOpaY
-3,Pitchfork,Big Thief,U.F.O.F.,Indie Folk,"May 3, 2019",http://open.spotify.com/album/13arYJWgDb5xGDHU49Nlj9
-4,Pitchfork,Angel Olsen,All Mirrors,Art Pop,"October 4, 2019",http://open.spotify.com/album/0RedX0LZkGUFoRwFntAaI0
-5,Pitchfork,Solange,When I Get Home,Neo-Soul,"March 1, 2019",http://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w
-6,Pitchfork,Bad Bunny,X 100PRE,Trap Rap,"December 24, 2018",http://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF
-7,Pitchfork,Helado Negro,This Is How You Smile,Art Pop,"March 8, 2019",http://open.spotify.com/album/17LsQV3q3cgTBrat3D5JSv
-8,Pitchfork,Fennesz,Agora,Ambient,"March 29, 2019",http://open.spotify.com/album/7JpOsq1F2A9aPr2fdacsOk
-9,Pitchfork,Weyes Blood,Titanic Rising,Art Pop,"April 5, 2019",http://open.spotify.com/album/53VKICyqCf91sVkTdFrzKX
-10,Pitchfork,Purple Mountains,Purple Mountains,Indie Rock,"July 12, 2019",http://open.spotify.com/album/5NCdiiTgky5PbjmCtcgwtn
-11,Pitchfork,Jamila Woods,LEGACY! LEGACY!,Alternative R&B,"May 10, 2019",http://open.spotify.com/album/5NzK7S7oQQnO8eLRf7kDJx
-12,Pitchfork,Brittany Howard,Jaime,Psychedelic Soul,"September 20, 2019",http://open.spotify.com/album/6fbphjr9j57oxMB2bnhzUf
-13,Pitchfork,Big Thief,Two Hands,Indie Folk,"October 11, 2019",http://open.spotify.com/album/7pg8T6pajjHVZbiyB8bGxo
-14,Pitchfork,Beyoncé,HOMECOMING: THE LIVE ALBUM,R&B,"April 17, 2019",http://open.spotify.com/album/35S1JCj5paIfElT2GODl6x
-15,Pitchfork,Bill Callahan,Shepherd in a Sheepskin Vest,Singer-Songwriter,"June 14, 2019",http://open.spotify.com/album/7sfkWJ14gZywjyv3wtQ5WC
-16,Pitchfork,Bon Iver,"i,i",Art Pop,"August 9, 2019",http://open.spotify.com/album/54DU59anGQsdrFP7utpshG
-17,Pitchfork,Alex G,House of Sugar,Indie Folk,"September 13, 2019",http://open.spotify.com/album/2kCDZ3gCr5hXFgbFsPMcxP
-18,Pitchfork,Clairo,Immunity,Indie Pop,"August 2, 2019",http://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd
-19,Pitchfork,Jessica Pratt,Quiet Signs,Folk,"February 8, 2019",http://open.spotify.com/album/00oz3t7cI3WfwS2oEIZD6x
-20,Pitchfork,Jenny Hval,The Practice of Love,Art Pop,"September 13, 2019",http://open.spotify.com/album/6Ia2sw3y79k40GHeNjCfLh
-21,Pitchfork,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",Electropop,"March 29, 2019",http://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh
-22,Pitchfork,Cate Le Bon,Reward,Art Pop,"May 24, 2019",http://open.spotify.com/album/1et95HstXof7uDcKgCkwXw
-23,Pitchfork,"Tyler, the Creator",IGOR,Neo-Soul,"May 17, 2019",http://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE
-24,Pitchfork,Kim Gordon,No Home Record,Noise Rock,"October 11, 2019",http://open.spotify.com/album/4WgO7FEa9fzcyOIabUIbQR
-25,Pitchfork,Vampire Weekend,Father of the Bride,Indie Pop,"May 3, 2019",http://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ
-26,Pitchfork,Burna Boy,African Giant,Afrobeats,"July 25, 2019",http://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF
-27,Pitchfork,Florist,Emily Alone,Indie Folk,"July 26, 2019",http://open.spotify.com/album/2Lgoj4yzpi5YchgiVuZTcH
-28,Pitchfork,Nick Cave & The Bad Seeds,Ghosteen,Singer-Songwriter,"October 4, 2019",http://open.spotify.com/album/6UOvMBrdfOWGqSvtQohiso
-29,Pitchfork,Ariana Grande,"thank u, next",R&B,"February 8, 2019",http://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw
-30,Pitchfork,Oso Oso,Basking in the Glow,Emo,"August 16, 2019",http://open.spotify.com/album/0W3zHdIMXAfAAueEWaagRH
-31,Pitchfork,MIKE,tears of joy,Abstract Hip Hop,"June 21, 2019",http://open.spotify.com/album/0LTQhn97NYWef8DeDAsknh
-32,Pitchfork,Sharon Van Etten,Remind Me Tomorrow,Indie Pop,"January 18, 2019",http://open.spotify.com/album/2dvXk4nacVRmDSnbKniwrS
-33,Pitchfork,Polo G,Die a Legend,Trap Rap,"June 7, 2019",http://open.spotify.com/album/26ztFK3E69j5THJQdyxC5w
-34,Pitchfork,slowthai,Nothing Great About Britain,Hip Hop,"May 17, 2019",http://open.spotify.com/album/2wl8jFb7m1paRmxIbwtHru
-35,Pitchfork,Mannequin Pussy,Patience,Punk Rock,"June 21, 2019",http://open.spotify.com/album/1X0Na8DRV5U6G9grTPDWKF
-36,Pitchfork,Denzel Curry,ZUU,Trap Rap,"May 31, 2019",http://open.spotify.com/album/6PkSBdx19zarn4ae1D08gA
-37,Pitchfork,Nilüfer Yanya,Miss Universe,Indie Pop,"March 22, 2019",http://open.spotify.com/album/4ghm3TST2NwYOIAd5QHjbU
-38,Pitchfork,RAP,Export,Ambient Techno,"February 28, 2019",No Spotify Link Found
-39,Pitchfork,Aldous Harding,Designer,Singer-Songwriter,"April 26, 2019",http://open.spotify.com/album/0QNJa03XQeMOuQhi9izThh
-40,Pitchfork,Thom Yorke,ANIMA,Glitch Pop,"June 27, 2019",http://open.spotify.com/album/1g4vEVvVVFvFju0gS0DMbh
-41,Pitchfork,Blood Incantation,Hidden History of the Human Race,Death Metal,"November 22, 2019",http://open.spotify.com/album/34U0n1oAE5mwgdaIBrcIck
-42,Pitchfork,100 gecs,1000 gecs,Bubblegum Bass,"May 31, 2019",http://open.spotify.com/album/4CGanXs6KlVuXXdNrf82qE
-43,Pitchfork,Rico Nasty & Kenny Beats,Anger Management,Trap Rap,"April 25, 2019",http://open.spotify.com/album/5JbeU5WL1WAGxy1u5fsOmf
-44,Pitchfork,Holly Herndon,PROTO,Glitch Pop,"May 10, 2019",http://open.spotify.com/album/3PkYFFSJTPxOhnSYBtyZsk
-45,Pitchfork,DaBaby,Baby On Baby,Trap Rap,"March 1, 2019",http://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0
-46,Pitchfork,CHAI,PUNK,Dance Punk,"February 13, 2019",http://open.spotify.com/album/7tcbI0Qp64LaGwHYgwkbBO
-47,Pitchfork,Barker,Utility,Ambient Techno,"September 6, 2019",http://open.spotify.com/album/5F3YJdIjGHhnUVuD96G1mz
-48,Pitchfork,Danny Brown,uknowhatimsayin¿,Abstract Hip Hop,"October 4, 2019",http://open.spotify.com/album/4G3BRVsGEpWzUdplFJ1VBl
-49,Pitchfork,Faye Webster,Atlanta Millionaires Club,Alt-Country,"May 24, 2019",http://open.spotify.com/album/4vt0V1SmkaK1Y440P5Nsb4
-50,Pitchfork,Floating Points,Crush,IDM,"October 18, 2019",http://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z
-1,Uncut,Bob Dylan,Rough and Rowdy Ways,Singer-Songwriter,"June 19, 2020",http://open.spotify.com/album/1Qht64MPvWTWa0aMsqxegB
-2,Uncut,Fleet Foxes,Shore,Indie Folk,"September 22, 2020",http://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3
-3,Uncut,Phoebe Bridgers,Punisher,Singer-Songwriter,"June 18, 2020",http://open.spotify.com/album/2xECuqnvvmVktV7UO8Dd3s
-4,Uncut,Drive-By Truckers,The New OK,Southern Rock,"October 2, 2020",http://open.spotify.com/album/3fK2I55hHahI81IxSM8KLU
-5,Uncut,Thundercat,It Is What It Is,Psychedelic Soul,"April 3, 2020",http://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9
-6,Uncut,Waxahatchee,Saint Cloud,Alt-Country,"March 27, 2020",http://open.spotify.com/album/04HMMwLmjkftjWy7xc6Bho
-7,Uncut,Bill Callahan,Gold Record,Americana,"September 4, 2020",http://open.spotify.com/album/309GzmwSB1Aj3gh8Tpp3Fo
-8,Uncut,JARV IS...,Beyond the Pale,Art Rock,"July 17, 2020",http://open.spotify.com/album/11TCoFgFirZuNc0qjXyjmW
-9,Uncut,Shirley Collins,Heart's Ease,Folk,"July 24, 2020",http://open.spotify.com/album/6QyzSKLdZy8E9i4fnyJQf4
-10,Uncut,Laura Marling,Song For Our Daughter,Folk,"April 10, 2020",http://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu
-11,Uncut,Jason Isbell & The 400 Unit,Reunions,Americana,"May 15, 2020",http://open.spotify.com/album/5XIafkwTpyvL7jjLJx1xKz
-12,Uncut,Moses Boyd,Dark Matter,Nu Jazz,"February 14, 2020",http://open.spotify.com/album/4XRA7yDYWSkO5BMvZinESW
-13,Uncut,Tame Impala,The Slow Rush,Neo-Psychedelia,"February 14, 2020",http://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL
-14,Uncut,Courtney Marie Andrews,Old Flowers,Singer-Songwriter,"July 24, 2020",http://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI
-15,Uncut,Fontaines D.C.,A Hero's Death,Post-Punk,"July 31, 2020",http://open.spotify.com/album/1TG1jA82COlOCK63DjmiT3
-16,Uncut,Stephen Malkmus,Traditional Techniques,Folk Rock,"March 6, 2020",http://open.spotify.com/album/3SAhjjtkodnZ9cEiiOiTAA
-17,Uncut,SAULT,UNTITLED (Black Is),Neo-Soul,"June 19, 2020",http://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle
-18,Uncut,Frazey Ford,U kin B the Sun,Singer-Songwriter,"February 7, 2020",http://open.spotify.com/album/4N5WuLpUuLCY98TrthGv3C
-19,Uncut,Brigid Mae Power,Head Above The Water,Singer-Songwriter,"June 5, 2020",http://open.spotify.com/album/6ma04X4LKQaCj8FAohLjye
-20,Uncut,Bruce Springsteen,Letter To You,Heartland Rock,"October 23, 2020",http://open.spotify.com/album/3KTfabkxxVzhXupBScd2sK
-21,Uncut,James Elkington,Ever-Roving Eye,Folk,"April 3, 2020",No Spotify Link Found
-22,Uncut,Fiona Apple,Fetch the Bolt Cutters,Art Pop,"April 17, 2020",http://open.spotify.com/album/0fO1KemWL2uCCQmM22iKlj
-23,Uncut,Paul Weller,On Sunset,Pop Rock,"July 3, 2020",http://open.spotify.com/album/1waaO5SrI0BdKtdR9YZLRu
-24,Uncut,Moses Sumney,græ,Art Pop,"May 15, 2020",http://open.spotify.com/album/35CHoLB0GEwYlOomriifC6
-25,Uncut,Nubya Garcia,Source,Jazz,"August 21, 2020",http://open.spotify.com/album/5iooBeTrG8wPKMgo7OAOX6
-26,Uncut,Rolling Blackouts Coastal Fever,Sideways To New Italy,Jangle Pop,"June 5, 2020",http://open.spotify.com/album/1OzdsJy52aBL2JftPLwRS0
-27,Uncut,Kevin Morby,Sundowner,Singer-Songwriter,"October 16, 2020",http://open.spotify.com/album/6s8xpXYalmDufcKB0InMsC
-28,Uncut,Lucinda Williams,Good Souls Better Angels,Blues Rock,"April 24, 2020",http://open.spotify.com/album/3sF4iIrRTsRNKC6AMR6D2d
-29,Uncut,Songhoy Blues,Optimisme,Indie Pop,"October 23, 2020",http://open.spotify.com/album/6uK3gAaZuQEh5cpB33B5GF
-30,Uncut,Cornershop,England is a Garden,Indie Pop,"March 6, 2020",http://open.spotify.com/album/6gHLOAoKYiuSjrZOFksGrQ
-31,Uncut,Afel Bocoum,Lindé,Neo-Psychedelia,"September 4, 2020",http://open.spotify.com/album/7kE6YsxkrkvTnbr1TILCrO
-32,Uncut,The Flaming Lips,American Head,Neo-Psychedelia,"September 11, 2020",http://open.spotify.com/album/4H8NX3ovAZdY2iJmwSNqlw
-33,Uncut,Bananagun,The True Story of Bananagun,Afrobeat,"June 26, 2020",http://open.spotify.com/album/4Zt3u1wMNq6ojjHhOY8Eyf
-34,Uncut,Rose City Band,Summerlong,Country Rock,"May 15, 2020",http://open.spotify.com/album/2xbuO6C2TK9hjQZFMi56Pf
-35,Uncut,Shabaka and the Ancestors,We Are Sent Here By History,Jazz,"March 13, 2020",http://open.spotify.com/album/4S5MLu2PKU7uElm2V3JphK
-36,Uncut,Destroyer,Have We Met,Synthpop,"January 31, 2020",http://open.spotify.com/album/3quNG7I59IYGauZ9Tn7Iyk
-37,Uncut,Sparks,"A Steady Drip, Drip, Drip",Art Pop,"May 15, 2020",http://open.spotify.com/album/43DZQacT84CN8EYfKcmeSL
-38,Uncut,Bonny Light Horseman,Bonny Light Horseman,Folk,"January 24, 2020",http://open.spotify.com/album/3q7f7kA7ATAR5ZXihBXV7q
-39,Uncut,The Psychedelic Furs,Made of Rain,Post-Punk,"July 31, 2020",http://open.spotify.com/album/3W37i6HXcCPx0DZF5Oy43T
-40,Uncut,Brigid Dawson and The Mothers Network,Ballet of Apes,Psychedelic Folk,"May 22, 2020",http://open.spotify.com/album/6idL156uolA1BkP1nduQfn
-41,Uncut,Keeley Forsyth,Debris,Avant-Folk,"January 17, 2020",http://open.spotify.com/album/2SvDBUmz6CjqGxMwKnAdT7
-42,Uncut,Róisín Murphy,Róisín Machine,Nu-Disco,"October 2, 2020",http://open.spotify.com/album/5WpDQt6EbpzXbqo9g9P0L6
-43,Uncut,Sarah Davachi,"Cantus, Descant",Drone,"September 18, 2020",http://open.spotify.com/album/6QQlw7AOPEaL3ot8V211cV
-44,Uncut,Eddie Chacon,"Pleasure, Joy and Happiness",Neo-Soul,"July 31, 2020",No Spotify Link Found
-45,Uncut,Bright Eyes,Down in the Weeds Where the World Once Was,Indie Folk,"August 21, 2020",http://open.spotify.com/album/1GMHBkCYVzWqrrczVDBJKm
-46,Uncut,Roger Eno & Brian Eno,Mixing Colours,Ambient,"March 20, 2020",No Spotify Link Found
-47,Uncut,Working Men's Club,Working Men's Club,Synthpop,"October 2, 2020",http://open.spotify.com/album/4Uzll2pB5SnmC0rulgDHyB
-48,Uncut,The Necks,Three,Avant-Garde Jazz,"March 27, 2020",http://open.spotify.com/album/2qWLFav8tDhDt2NyNOjAb0
-49,Uncut,Gwenifer Raymond,Strange Lights Over Garth Mountain,Country,"November 13, 2020",http://open.spotify.com/album/5KyXUkcCGN6Gb9sVKXyQ3N
-50,Uncut,Margo Price,That's How Rumors Get Started,Country,"July 10, 2020",http://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL
+Artist,Title,Genre,Release Date,Spotify Link,Pitchfork,Uncut,Uproxx
+100 gecs,1000 gecs,Bubblegum Bass,"May 31, 2019",http://open.spotify.com/album/4CGanXs6KlVuXXdNrf82qE,42,,
+2 Chainz,Rap or Go to the League,Trap Rap,"March 1, 2019",http://open.spotify.com/album/1BR69wIifGZUSimcuTjWVg,,,26
+21 Savage,i am > i was,Trap Rap,"December 21, 2018",http://open.spotify.com/album/007DWn799UWvfY1wwZeENR,,,24
+Afel Bocoum,Lindé,Neo-Psychedelia,"September 4, 2020",http://open.spotify.com/album/7kE6YsxkrkvTnbr1TILCrO,,31,
+Aldous Harding,Designer,Singer-Songwriter,"April 26, 2019",http://open.spotify.com/album/0QNJa03XQeMOuQhi9izThh,39,,
+Alex G,House of Sugar,Indie Folk,"September 13, 2019",http://open.spotify.com/album/2kCDZ3gCr5hXFgbFsPMcxP,17,,
+Anderson .Paak,Ventura,R&B,"April 12, 2019",http://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY,,,37
+Angel Olsen,All Mirrors,Art Pop,"October 4, 2019",http://open.spotify.com/album/0RedX0LZkGUFoRwFntAaI0,4,,11
+Ariana Grande,"thank u, next",R&B,"February 8, 2019",http://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw,29,,2
+Bad Bunny,X 100PRE,Trap Rap,"December 24, 2018",http://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF,6,,
+Bananagun,The True Story of Bananagun,Afrobeat,"June 26, 2020",http://open.spotify.com/album/4Zt3u1wMNq6ojjHhOY8Eyf,,33,
+Barker,Utility,Ambient Techno,"September 6, 2019",http://open.spotify.com/album/5F3YJdIjGHhnUVuD96G1mz,47,,
+Better Oblivion Community Center,Better Oblivion Community Center,Folk Rock,"January 23, 2019",http://open.spotify.com/album/5622zSt4RLqNSPShdqmWpj,,,43
+Beyoncé,HOMECOMING: THE LIVE ALBUM,R&B,"April 17, 2019",http://open.spotify.com/album/35S1JCj5paIfElT2GODl6x,14,,
+Big Thief,Two Hands,Indie Folk,"October 11, 2019",http://open.spotify.com/album/7pg8T6pajjHVZbiyB8bGxo,13,,
+Big Thief,U.F.O.F.,Indie Folk,"May 3, 2019",http://open.spotify.com/album/13arYJWgDb5xGDHU49Nlj9,3,,6
+Bill Callahan,Gold Record,Americana,"September 4, 2020",http://open.spotify.com/album/309GzmwSB1Aj3gh8Tpp3Fo,,7,
+Bill Callahan,Shepherd in a Sheepskin Vest,Singer-Songwriter,"June 14, 2019",http://open.spotify.com/album/7sfkWJ14gZywjyv3wtQ5WC,15,,
+Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",Electropop,"March 29, 2019",http://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh,21,,5
+Blood Incantation,Hidden History of the Human Race,Death Metal,"November 22, 2019",http://open.spotify.com/album/34U0n1oAE5mwgdaIBrcIck,41,,
+Bob Dylan,Rough and Rowdy Ways,Singer-Songwriter,"June 19, 2020",http://open.spotify.com/album/1Qht64MPvWTWa0aMsqxegB,,1,
+Bon Iver,"i,i",Art Pop,"August 9, 2019",http://open.spotify.com/album/54DU59anGQsdrFP7utpshG,16,,7
+Bonny Light Horseman,Bonny Light Horseman,Folk,"January 24, 2020",http://open.spotify.com/album/3q7f7kA7ATAR5ZXihBXV7q,,38,
+Boogie,Everythings For Sale,Hip Hop,"January 25, 2019",http://open.spotify.com/album/14drLk9rMpA7GPk1MRvRE5,,,27
+Bright Eyes,Down in the Weeds Where the World Once Was,Indie Folk,"August 21, 2020",http://open.spotify.com/album/1GMHBkCYVzWqrrczVDBJKm,,45,
+Brigid Dawson and The Mothers Network,Ballet of Apes,Psychedelic Folk,"May 22, 2020",http://open.spotify.com/album/6idL156uolA1BkP1nduQfn,,40,
+Brigid Mae Power,Head Above The Water,Singer-Songwriter,"June 5, 2020",http://open.spotify.com/album/6ma04X4LKQaCj8FAohLjye,,19,
+Brittany Howard,Jaime,Psychedelic Soul,"September 20, 2019",http://open.spotify.com/album/6fbphjr9j57oxMB2bnhzUf,12,,23
+Bruce Springsteen,Letter To You,Heartland Rock,"October 23, 2020",http://open.spotify.com/album/3KTfabkxxVzhXupBScd2sK,,20,
+Bruce Springsteen,Western Stars,Americana,"June 14, 2019",http://open.spotify.com/album/6BhqPpIgY83rqoZ2L78Lte,,,35
+Burna Boy,African Giant,Afrobeats,"July 25, 2019",http://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF,26,,
+CHAI,PUNK,Dance Punk,"February 13, 2019",http://open.spotify.com/album/7tcbI0Qp64LaGwHYgwkbBO,46,,
+Carly Rae Jepsen,Dedicated,Dance Pop,"May 17, 2019",http://open.spotify.com/album/25it7uSpNFuRoD6uNc0Tfu,,,46
+Cate Le Bon,Reward,Art Pop,"May 24, 2019",http://open.spotify.com/album/1et95HstXof7uDcKgCkwXw,22,,
+Charli XCX,Charli,Electropop,"September 13, 2019",http://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj,,,32
+Charly Bliss,Young Enough,Power Pop,"May 10, 2019",http://open.spotify.com/album/4exyaIzm1Rm7aYdc2wrpEH,,,47
+Clairo,Immunity,Indie Pop,"August 2, 2019",http://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd,18,,28
+Cordae,The Lost Boy,Hip Hop,"July 26, 2019",http://open.spotify.com/album/6Pb7PMZtW0fuEM1lCGvCDu,,,10
+Cornershop,England is a Garden,Indie Pop,"March 6, 2020",http://open.spotify.com/album/6gHLOAoKYiuSjrZOFksGrQ,,30,
+Courtney Marie Andrews,Old Flowers,Singer-Songwriter,"July 24, 2020",http://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI,,14,
+DaBaby,Baby On Baby,Trap Rap,"March 1, 2019",http://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0,45,,18
+Danny Brown,uknowhatimsayin¿,Abstract Hip Hop,"October 4, 2019",http://open.spotify.com/album/4G3BRVsGEpWzUdplFJ1VBl,48,,49
+Denzel Curry,ZUU,Trap Rap,"May 31, 2019",http://open.spotify.com/album/6PkSBdx19zarn4ae1D08gA,36,,14
+Destroyer,Have We Met,Synthpop,"January 31, 2020",http://open.spotify.com/album/3quNG7I59IYGauZ9Tn7Iyk,,36,
+Drive-By Truckers,The New OK,Southern Rock,"October 2, 2020",http://open.spotify.com/album/3fK2I55hHahI81IxSM8KLU,,4,
+EARTHGANG,Mirrorland,Hip Hop,"September 6, 2019",http://open.spotify.com/album/7c8GIv25SfHf4M6kZkldOl,,,31
+Ed Sheeran,No.6 Collaborations Project,Pop Rap,"July 12, 2019",http://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx,,,45
+Eddie Chacon,"Pleasure, Joy and Happiness",Neo-Soul,"July 31, 2020",No Spotify Link Found,,44,
+FKA twigs,MAGDALENE,Art Pop,"November 8, 2019",http://open.spotify.com/album/2w8Wshbp9RCPJdPU1iOpaY,2,,36
+Faye Webster,Atlanta Millionaires Club,Alt-Country,"May 24, 2019",http://open.spotify.com/album/4vt0V1SmkaK1Y440P5Nsb4,49,,
+Fennesz,Agora,Ambient,"March 29, 2019",http://open.spotify.com/album/7JpOsq1F2A9aPr2fdacsOk,8,,
+Fiona Apple,Fetch the Bolt Cutters,Art Pop,"April 17, 2020",http://open.spotify.com/album/0fO1KemWL2uCCQmM22iKlj,,22,
+Fleet Foxes,Shore,Indie Folk,"September 22, 2020",http://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3,,2,
+Floating Points,Crush,IDM,"October 18, 2019",http://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z,50,,
+Florist,Emily Alone,Indie Folk,"July 26, 2019",http://open.spotify.com/album/2Lgoj4yzpi5YchgiVuZTcH,27,,
+Fontaines D.C.,A Hero's Death,Post-Punk,"July 31, 2020",http://open.spotify.com/album/1TG1jA82COlOCK63DjmiT3,,15,
+Frazey Ford,U kin B the Sun,Singer-Songwriter,"February 7, 2020",http://open.spotify.com/album/4N5WuLpUuLCY98TrthGv3C,,18,
+Freddie Gibbs & Madlib,Bandana,Hip Hop,"June 28, 2019",http://open.spotify.com/album/31KbO7WnDp2AjPdmRTJzdf,,,29
+GoldLink,Diaspora,Hip House,"June 12, 2019",http://open.spotify.com/album/3TdQHL32iyoKbGVxk9tlhS,,,33
+Gwenifer Raymond,Strange Lights Over Garth Mountain,Country,"November 13, 2020",http://open.spotify.com/album/5KyXUkcCGN6Gb9sVKXyQ3N,,49,
+Helado Negro,This Is How You Smile,Art Pop,"March 8, 2019",http://open.spotify.com/album/17LsQV3q3cgTBrat3D5JSv,7,,
+Holly Herndon,PROTO,Glitch Pop,"May 10, 2019",http://open.spotify.com/album/3PkYFFSJTPxOhnSYBtyZsk,44,,
+IDK,IS HE REAL?,Hip Hop,"September 4, 2019",http://open.spotify.com/album/2JnOb2SpW5DSOHhbW6GKru,,,21
+JARV IS...,Beyond the Pale,Art Rock,"July 17, 2020",http://open.spotify.com/album/11TCoFgFirZuNc0qjXyjmW,,8,
+James Elkington,Ever-Roving Eye,Folk,"April 3, 2020",No Spotify Link Found,,21,
+Jamila Woods,LEGACY! LEGACY!,Alternative R&B,"May 10, 2019",http://open.spotify.com/album/5NzK7S7oQQnO8eLRf7kDJx,11,,
+Jason Isbell & The 400 Unit,Reunions,Americana,"May 15, 2020",http://open.spotify.com/album/5XIafkwTpyvL7jjLJx1xKz,,11,
+Jenny Hval,The Practice of Love,Art Pop,"September 13, 2019",http://open.spotify.com/album/6Ia2sw3y79k40GHeNjCfLh,20,,
+Jessica Pratt,Quiet Signs,Folk,"February 8, 2019",http://open.spotify.com/album/00oz3t7cI3WfwS2oEIZD6x,19,,
+Juice WRLD,DEATH RACE FOR LOVE,Hip Hop,"March 8, 2019",http://open.spotify.com/album/1GYVNOzwhx1nMcIJDogSNp,,,50
+Keeley Forsyth,Debris,Avant-Folk,"January 17, 2020",http://open.spotify.com/album/2SvDBUmz6CjqGxMwKnAdT7,,41,
+Kevin Abstract,ARIZONA BABY,Pop Rap,"April 25, 2019",http://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO,,,44
+Kevin Morby,Sundowner,Singer-Songwriter,"October 16, 2020",http://open.spotify.com/album/6s8xpXYalmDufcKB0InMsC,,27,
+Kim Gordon,No Home Record,Noise Rock,"October 11, 2019",http://open.spotify.com/album/4WgO7FEa9fzcyOIabUIbQR,24,,
+King Princess,Cheap Queen,Pop Soul,"October 25, 2019",http://open.spotify.com/album/00uqjqwLruO346z3cNlNqG,,,30
+Lana Del Rey,Norman Fucking Rockwell!,Singer-Songwriter,"August 30, 2019",http://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A,1,,1
+Laura Marling,Song For Our Daughter,Folk,"April 10, 2020",http://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu,,10,
+Lizzo,Cuz I Love You,Pop Soul,"April 19, 2019",http://open.spotify.com/album/2Js2XW32MfkfGXXggDIAhJ,,,8
+Lucinda Williams,Good Souls Better Angels,Blues Rock,"April 24, 2020",http://open.spotify.com/album/3sF4iIrRTsRNKC6AMR6D2d,,28,
+MIKE,tears of joy,Abstract Hip Hop,"June 21, 2019",http://open.spotify.com/album/0LTQhn97NYWef8DeDAsknh,31,,
+Maggie Rogers,Heard It In A Past Life,Synthpop,"January 18, 2019",http://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4,,,17
+Mannequin Pussy,Patience,Punk Rock,"June 21, 2019",http://open.spotify.com/album/1X0Na8DRV5U6G9grTPDWKF,35,,34
+Margo Price,That's How Rumors Get Started,Country,"July 10, 2020",http://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL,,50,
+Mark Ronson,Late Night Feelings,Dance Pop,"June 21, 2019",http://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA,,,13
+Megan Thee Stallion,Fever,Trap Rap,"May 17, 2019",http://open.spotify.com/album/5WLquTz7nUnsHCj80b6wci,,,16
+Moses Boyd,Dark Matter,Nu Jazz,"February 14, 2020",http://open.spotify.com/album/4XRA7yDYWSkO5BMvZinESW,,12,
+Moses Sumney,græ,Art Pop,"May 15, 2020",http://open.spotify.com/album/35CHoLB0GEwYlOomriifC6,,24,
+Nick Cave & The Bad Seeds,Ghosteen,Singer-Songwriter,"October 4, 2019",http://open.spotify.com/album/6UOvMBrdfOWGqSvtQohiso,28,,22
+Nilüfer Yanya,Miss Universe,Indie Pop,"March 22, 2019",http://open.spotify.com/album/4ghm3TST2NwYOIAd5QHjbU,37,,42
+Nubya Garcia,Source,Jazz,"August 21, 2020",http://open.spotify.com/album/5iooBeTrG8wPKMgo7OAOX6,,25,
+Oso Oso,Basking in the Glow,Emo,"August 16, 2019",http://open.spotify.com/album/0W3zHdIMXAfAAueEWaagRH,30,,
+Paul Weller,On Sunset,Pop Rock,"July 3, 2020",http://open.spotify.com/album/1waaO5SrI0BdKtdR9YZLRu,,23,
+Phoebe Bridgers,Punisher,Singer-Songwriter,"June 18, 2020",http://open.spotify.com/album/2xECuqnvvmVktV7UO8Dd3s,,3,
+Polo G,Die a Legend,Trap Rap,"June 7, 2019",http://open.spotify.com/album/26ztFK3E69j5THJQdyxC5w,33,,
+Post Malone,Hollywood's Bleeding,Pop Rap,"September 6, 2019",http://open.spotify.com/album/3KziODx7ieQTgYCVrS6nBv,,,41
+Purple Mountains,Purple Mountains,Indie Rock,"July 12, 2019",http://open.spotify.com/album/5NCdiiTgky5PbjmCtcgwtn,10,,15
+RAP,Export,Ambient Techno,"February 28, 2019",No Spotify Link Found,38,,
+Rapsody,Eve,Hip Hop,"August 23, 2019",http://open.spotify.com/album/4W5qCJNSN3oNHB986TdO9S,,,9
+Rico Nasty & Kenny Beats,Anger Management,Trap Rap,"April 25, 2019",http://open.spotify.com/album/5JbeU5WL1WAGxy1u5fsOmf,43,,
+Roger Eno & Brian Eno,Mixing Colours,Ambient,"March 20, 2020",No Spotify Link Found,,46,
+Rolling Blackouts Coastal Fever,Sideways To New Italy,Jangle Pop,"June 5, 2020",http://open.spotify.com/album/1OzdsJy52aBL2JftPLwRS0,,26,
+Rose City Band,Summerlong,Country Rock,"May 15, 2020",http://open.spotify.com/album/2xbuO6C2TK9hjQZFMi56Pf,,34,
+Róisín Murphy,Róisín Machine,Nu-Disco,"October 2, 2020",http://open.spotify.com/album/5WpDQt6EbpzXbqo9g9P0L6,,42,
+SAULT,UNTITLED (Black Is),Neo-Soul,"June 19, 2020",http://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle,,17,
+Sarah Davachi,"Cantus, Descant",Drone,"September 18, 2020",http://open.spotify.com/album/6QQlw7AOPEaL3ot8V211cV,,43,
+Shabaka and the Ancestors,We Are Sent Here By History,Jazz,"March 13, 2020",http://open.spotify.com/album/4S5MLu2PKU7uElm2V3JphK,,35,
+Sharon Van Etten,Remind Me Tomorrow,Indie Pop,"January 18, 2019",http://open.spotify.com/album/2dvXk4nacVRmDSnbKniwrS,32,,38
+Shirley Collins,Heart's Ease,Folk,"July 24, 2020",http://open.spotify.com/album/6QyzSKLdZy8E9i4fnyJQf4,,9,
+Solange,When I Get Home,Neo-Soul,"March 1, 2019",http://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w,5,,39
+Songhoy Blues,Optimisme,Indie Pop,"October 23, 2020",http://open.spotify.com/album/6uK3gAaZuQEh5cpB33B5GF,,29,
+Sparks,"A Steady Drip, Drip, Drip",Art Pop,"May 15, 2020",http://open.spotify.com/album/43DZQacT84CN8EYfKcmeSL,,37,
+Stephen Malkmus,Traditional Techniques,Folk Rock,"March 6, 2020",http://open.spotify.com/album/3SAhjjtkodnZ9cEiiOiTAA,,16,
+Summer Walker,Over It,R&B,"October 4, 2019",http://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK,,,19
+Tame Impala,The Slow Rush,Neo-Psychedelia,"February 14, 2020",http://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL,,13,
+Taylor Swift,Lover,Electropop,"August 23, 2019",http://open.spotify.com/album/3rYkgtFOo9AlPaeKTtn6pM,,,25
+The Flaming Lips,American Head,Neo-Psychedelia,"September 11, 2020",http://open.spotify.com/album/4H8NX3ovAZdY2iJmwSNqlw,,32,
+The National,I Am Easy to Find,Chamber Pop,"May 17, 2019",http://open.spotify.com/album/240Gfpkjr06NUT3zBYrwVN,,,20
+The Necks,Three,Avant-Garde Jazz,"March 27, 2020",http://open.spotify.com/album/2qWLFav8tDhDt2NyNOjAb0,,48,
+The Psychedelic Furs,Made of Rain,Post-Punk,"July 31, 2020",http://open.spotify.com/album/3W37i6HXcCPx0DZF5Oy43T,,39,
+Thom Yorke,ANIMA,Glitch Pop,"June 27, 2019",http://open.spotify.com/album/1g4vEVvVVFvFju0gS0DMbh,40,,
+Thundercat,It Is What It Is,Psychedelic Soul,"April 3, 2020",http://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9,,5,
+"Tyler, the Creator",IGOR,Neo-Soul,"May 17, 2019",http://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE,23,,12
+Vampire Weekend,Father of the Bride,Indie Pop,"May 3, 2019",http://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ,25,,40
+Waxahatchee,Saint Cloud,Alt-Country,"March 27, 2020",http://open.spotify.com/album/04HMMwLmjkftjWy7xc6Bho,,6,
+Weyes Blood,Titanic Rising,Art Pop,"April 5, 2019",http://open.spotify.com/album/53VKICyqCf91sVkTdFrzKX,9,,4
+Working Men's Club,Working Men's Club,Synthpop,"October 2, 2020",http://open.spotify.com/album/4Uzll2pB5SnmC0rulgDHyB,,47,
+Young Thug,So Much Fun,Trap Rap,"August 16, 2019",http://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh,,,3
+Yuna,Rouge,R&B,"July 12, 2019",http://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ,,,48
+slowthai,Nothing Great About Britain,Hip Hop,"May 17, 2019",http://open.spotify.com/album/2wl8jFb7m1paRmxIbwtHru,34,,

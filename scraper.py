@@ -2,6 +2,7 @@ import requests
 import re
 import csv
 import argparse
+import numpy as np
 import pandas as pd
 from oauth2client.service_account import ServiceAccountCredentials
 import gspread
@@ -78,16 +79,19 @@ def get_list(url, pub):
     return table_data
 
 
-def write_to_csv(table_data, filename):
+def reshape_data(df):
     '''
-    Write scraped data to a csv file
-    Inputs: table_data (list of lists)
-            filename (str)
+    Reshape wide to long depending on how we would like to display the data.
     '''
 
-    with open(filename, 'w', newline='') as f:
-        writer = csv.writer(f)
-        writer.writerows(table_data)
+    data = df.pivot_table(index=["Artist", "Title", "Genre", "Release Date",
+                                   "Spotify Link"],
+                          values="Position",
+                          fill_value='',
+                          columns=["Publication"],
+                          aggfunc='first').reset_index()
+
+    return data
 
 
 def push_to_gsheets(path, cred):
@@ -105,7 +109,11 @@ def push_to_gsheets(path, cred):
         cred, scope)
 
     gc = gspread.authorize(credentials)
+
     df = pd.read_csv(path)
+    df = df.astype(str)
+    df = df.replace('nan', '', regex=True)
+
     spreadsheet_key = '1vpxZunN4M8gvnsireG4TEPSlA-pxo8Ta9Y6Kj8zgWwg'
     wks_name = 'raw'
 
@@ -135,6 +143,7 @@ if __name__ == '__main__':
         data = get_list(link, pub)
         df = df.append(pd.DataFrame(data, columns=df.columns))
 
+    df = reshape_data(df)
     df.to_csv(args.out, index=False)
 
     if args.g:
