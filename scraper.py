@@ -172,6 +172,10 @@ if __name__ == '__main__':
 
     df = reshape_data(df)
     df = calc_stats(df, pub_list)
+    # Reorder the columns
+    cols = df.columns.tolist()
+    cols = cols[:5] + cols[-5:] + cols[5:-5]
+    df = df[cols]
 
     df.to_csv(args.out, index=False)
 
