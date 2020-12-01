@@ -63,9 +63,10 @@ def get_list(url, pub):
     centercontent = soup.find('div', {'id': 'centerContent'})
     position = centercontent.find('span', {'itemprop': 'position'}).text
     album_info = centercontent.find_next('meta')['content']
-    tag = soup.find('div', {'class': 'albumListCover mustHear'})
+    tag = soup.find(
+        'div', {'class': ['albumListCover mustHear', 'albumListCover']})
 
-    for i in range(1, 51):
+    while True and position != '51':
         album = Album(album_info, tag, position, pub)
         table_data.append(album.get_album())
         try:
@@ -87,15 +88,19 @@ def reshape_data(df):
              publications
     '''
 
-    data = df.pivot_table(index=["Artist", "Title", "Genre", "Release Date",
-                                   "Spotify Link"],
+    data = df.pivot_table(index=["Artist", "Title"],
                           values="Position",
                           columns=["Publication"],
                           aggfunc='first').reset_index()
 
-    data.index.name = 'Index'
+    # Drop duplicates and retain main fields
+    deduped = df.drop_duplicates(subset=['Artist', 'Title']).iloc[:, 2:]
 
-    return data
+    joined = data.merge(deduped, how='inner', on=['Artist', 'Title'])
+
+    joined.index.name = 'Index'
+
+    return joined
 
 
 def calc_stats(df, pub_list):
@@ -174,7 +179,7 @@ if __name__ == '__main__':
     df = calc_stats(df, pub_list)
     # Reorder the columns
     cols = df.columns.tolist()
-    cols = cols[:5] + cols[-5:] + cols[5:-5]
+    cols = cols[:2] + cols[-8:] + cols[2:-8]
     df = df[cols]
 
     df.to_csv(args.out, index=False)
