@@ -19,7 +19,7 @@ class Album:
                 position (str): the position on a list
                 pub (str): the publication title
         '''
-        id_split = re.split(r'\s-\s', album_info)
+        id_split = re.split(r'\s-\s', album_info, maxsplit=1)
         self.artist, self.title = id_split
         self.position = position
         self.date = tag.find_next('div', {'class': 'albumListDate'}).text
