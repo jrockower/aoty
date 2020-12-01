@@ -1,111 +1,218 @@
-Artist,Title,Genre,Release Date,Spotify Link,avg,cons_score,num_lists,count_1,count_top10,Mojo,RoughTrade,Uncut
-JARV IS...,Beyond the Pale,Art Rock,"July 17, 2020",http://open.spotify.com/album/11TCoFgFirZuNc0qjXyjmW,6.666666666666667,6.666666666666667,3,0,3,7.0,5.0,8.0
-Laura Marling,Song For Our Daughter,Folk,"April 10, 2020",http://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu,10.333333333333334,10.333333333333334,3,0,2,17.0,4.0,10.0
-Fontaines D.C.,A Hero's Death,Post-Punk,"July 31, 2020",http://open.spotify.com/album/1TG1jA82COlOCK63DjmiT3,13.666666666666666,13.666666666666666,3,0,1,3.0,23.0,15.0
-Cornershop,England is a Garden,Indie Pop,"March 6, 2020",http://open.spotify.com/album/6gHLOAoKYiuSjrZOFksGrQ,15.666666666666666,15.666666666666666,3,0,1,6.0,11.0,30.0
-Bob Dylan,Rough and Rowdy Ways,Singer-Songwriter,"June 19, 2020",http://open.spotify.com/album/1Qht64MPvWTWa0aMsqxegB,1.0,25.666666666666668,2,2,2,1.0,,1.0
-Fleet Foxes,Shore,Indie Folk,"September 22, 2020",http://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3,3.5,27.333333333333332,2,0,2,5.0,,2.0
-Bill Callahan,Gold Record,Americana,"September 4, 2020",http://open.spotify.com/album/309GzmwSB1Aj3gh8Tpp3Fo,5.5,28.666666666666668,2,0,2,4.0,,7.0
-Phoebe Bridgers,Punisher,Singer-Songwriter,"June 18, 2020",http://open.spotify.com/album/2xECuqnvvmVktV7UO8Dd3s,6.0,29.0,2,0,2,9.0,,3.0
-Waxahatchee,Saint Cloud,Alt-Country,"March 27, 2020",http://open.spotify.com/album/04HMMwLmjkftjWy7xc6Bho,12.0,33.0,2,0,1,,18.0,6.0
-Fiona Apple,Fetch the Bolt Cutters,Art Pop,"April 17, 2020",http://open.spotify.com/album/0fO1KemWL2uCCQmM22iKlj,12.0,33.0,2,0,1,2.0,,22.0
-Idles,Ultra Mono,Art Punk,"September 25, 2020",http://open.spotify.com/album/0ojQHzflxMs6SfvBBkRKt6,13.0,33.666666666666664,2,0,0,12.0,14.0,
-Run the Jewels,RTJ4,Hip Hop,"June 3, 2020",http://open.spotify.com/album/0DLkBrivkPhPGeSowPUyde,16.5,36.0,2,0,1,8.0,25.0,
-Frazey Ford,U kin B the Sun,Singer-Songwriter,"February 7, 2020",http://open.spotify.com/album/4N5WuLpUuLCY98TrthGv3C,16.5,36.0,2,0,0,15.0,,18.0
-Paul Weller,On Sunset,Pop Rock,"July 3, 2020",http://open.spotify.com/album/1waaO5SrI0BdKtdR9YZLRu,17.0,36.333333333333336,2,0,0,11.0,,23.0
-Thundercat,It Is What It Is,Psychedelic Soul,"April 3, 2020",http://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9,17.0,36.333333333333336,2,0,1,29.0,,5.0
-Rolling Blackouts Coastal Fever,Sideways To New Italy,Jangle Pop,"June 5, 2020",http://open.spotify.com/album/1OzdsJy52aBL2JftPLwRS0,18.0,37.0,2,0,1,,10.0,26.0
-SAULT,UNTITLED (Black Is),Neo-Soul,"June 19, 2020",http://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle,18.0,37.0,2,0,0,19.0,,17.0
-Moses Boyd,Dark Matter,Nu Jazz,"February 14, 2020",http://open.spotify.com/album/4XRA7yDYWSkO5BMvZinESW,18.0,37.0,2,0,0,24.0,,12.0
-Shirley Collins,Heart's Ease,Folk,"July 24, 2020",http://open.spotify.com/album/6QyzSKLdZy8E9i4fnyJQf4,18.5,37.333333333333336,2,0,1,28.0,,9.0
-Moses Sumney,græ,Art Pop,"May 15, 2020",http://open.spotify.com/album/35CHoLB0GEwYlOomriifC6,18.5,37.333333333333336,2,0,0,13.0,,24.0
-The Flaming Lips,American Head,Neo-Psychedelia,"September 11, 2020",http://open.spotify.com/album/4H8NX3ovAZdY2iJmwSNqlw,21.0,39.0,2,0,1,10.0,,32.0
-Courtney Marie Andrews,Old Flowers,Singer-Songwriter,"July 24, 2020",http://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI,21.5,39.333333333333336,2,0,0,,29.0,14.0
-Stephen Malkmus,Traditional Techniques,Folk Rock,"March 6, 2020",http://open.spotify.com/album/3SAhjjtkodnZ9cEiiOiTAA,21.5,39.333333333333336,2,0,0,27.0,,16.0
-Nubya Garcia,Source,Jazz,"August 21, 2020",http://open.spotify.com/album/5iooBeTrG8wPKMgo7OAOX6,22.5,40.0,2,0,0,20.0,,25.0
-Brigid Mae Power,Head Above The Water,Singer-Songwriter,"June 5, 2020",http://open.spotify.com/album/6ma04X4LKQaCj8FAohLjye,23.0,40.333333333333336,2,0,0,,27.0,19.0
-Tame Impala,The Slow Rush,Neo-Psychedelia,"February 14, 2020",http://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL,27.0,43.0,2,0,0,41.0,,13.0
-Thurston Moore,By the Fire,Noise Rock,"September 25, 2020",http://open.spotify.com/album/4BDskQQhVpsxax7WGOUJQQ,28.5,44.0,2,0,0,40.0,17.0,
-Shabaka and the Ancestors,We Are Sent Here By History,Jazz,"March 13, 2020",http://open.spotify.com/album/4S5MLu2PKU7uElm2V3JphK,29.0,44.333333333333336,2,0,0,23.0,,35.0
-Sparks,"A Steady Drip, Drip, Drip",Art Pop,"May 15, 2020",http://open.spotify.com/album/43DZQacT84CN8EYfKcmeSL,31.0,45.666666666666664,2,0,0,25.0,,37.0
-Bruce Springsteen,Letter To You,Heartland Rock,"October 23, 2020",http://open.spotify.com/album/3KTfabkxxVzhXupBScd2sK,32.5,46.666666666666664,2,0,0,45.0,,20.0
-Coriky,Coriky,Indie Rock,"June 12, 2020",http://open.spotify.com/album/5tq1YTBXOODRZERatJ7f1U,32.5,46.666666666666664,2,0,0,32.0,33.0,
-Lucinda Williams,Good Souls Better Angels,Blues Rock,"April 24, 2020",http://open.spotify.com/album/3sF4iIrRTsRNKC6AMR6D2d,33.0,47.0,2,0,0,38.0,,28.0
-Rose City Band,Summerlong,Country Rock,"May 15, 2020",http://open.spotify.com/album/2xbuO6C2TK9hjQZFMi56Pf,34.5,48.0,2,0,0,35.0,,34.0
-SAULT,UNTITLED (Black Is),Singer-Songwriter,"June 18, 2020",http://open.spotify.com/album/2xECuqnvvmVktV7UO8Dd3s,1.0,50.333333333333336,1,1,1,,1.0,
-Rina Sawayama,SAWAYAMA,R&B,"April 17, 2020",http://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J,3.0,51.0,1,0,1,,3.0,
-Drive-By Truckers,The New OK,Southern Rock,"October 2, 2020",http://open.spotify.com/album/3fK2I55hHahI81IxSM8KLU,4.0,51.333333333333336,1,0,1,,,4.0
-The Necks,Three,Avant-Garde Jazz,"March 27, 2020",http://open.spotify.com/album/2qWLFav8tDhDt2NyNOjAb0,40.5,52.0,2,0,0,33.0,,48.0
-Dream Wife,So When You Gonna...,Indie Rock,"July 3, 2020",http://open.spotify.com/album/6YJwKHuYNokOjYekMv3Kga,6.0,52.0,1,0,1,,6.0,
-Pigs Pigs Pigs Pigs Pigs Pigs Pigs,Viscerals,Stoner Metal,"April 3, 2020",http://open.spotify.com/album/15CVkItclaGrn0xLr16Qw0,7.0,52.333333333333336,1,0,1,,7.0,
-bdrmm,Bedroom,Dream Pop,"July 3, 2020",http://open.spotify.com/album/3Pu648nWwshjvkl96rKxPS,8.0,52.666666666666664,1,0,1,,8.0,
-Porridge Radio,Every Bad,Indie Rock,"March 13, 2020",http://open.spotify.com/album/4DN3XbB33kHTJA7HhI0RFI,9.0,53.0,1,0,1,,9.0,
-Margo Price,That's How Rumors Get Started,Country,"July 10, 2020",http://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL,42.5,53.333333333333336,2,0,0,,35.0,50.0
-Jason Isbell & The 400 Unit,Reunions,Americana,"May 15, 2020",http://open.spotify.com/album/5XIafkwTpyvL7jjLJx1xKz,11.0,53.666666666666664,1,0,0,,,11.0
-Oklou,Galore,Ambient Pop,"August 25, 2020",http://open.spotify.com/album/6s7TtMHRcoy8D0ipc0wmjE,12.0,54.0,1,0,0,,12.0,
-Oh Sees,Protean Threat,Garage Punk,"September 18, 2020",http://open.spotify.com/album/16l3FJwjZooUHbU37sdeeI,13.0,54.333333333333336,1,0,0,,13.0,
-Tony Allen & Hugh Masekela,Rejoice,Jazz,"March 20, 2020",http://open.spotify.com/album/061q5E43gIp25oJxVxvAav,14.0,54.666666666666664,1,0,0,14.0,,
-Caribou,Suddenly,Indietronica,"February 28, 2020",http://open.spotify.com/album/4wSb7OhVUzw3u76lta9fJw,15.0,55.0,1,0,0,,15.0,
-Nick Cave,Idiot Prayer: Nick Cave Alone at Alexandra Palace,Singer-Songwriter,"November 20, 2020",http://open.spotify.com/album/7o6zfGW9eywRuc0eOdzJFK,16.0,55.333333333333336,1,0,0,16.0,,
-Tom Misch & Yussef Dayes,What Kinda Music,Neo-Soul,"April 24, 2020",http://open.spotify.com/album/6iOCv7oGL5sGi2aVnRz2BI,16.0,55.333333333333336,1,0,0,,16.0,
-Toots & The Maytals,Got to Be Tough,Reggae,"August 28, 2020",http://open.spotify.com/album/6TpWt5DjGFB6TyvvMjrBLh,18.0,56.0,1,0,0,18.0,,
-Kamaal Williams,Wu Hen,Nu Jazz,"July 24, 2020",http://open.spotify.com/album/04kN5iKwGoYMSkr9cPZrWp,19.0,56.333333333333336,1,0,0,,19.0,
-Hazel English,Wake UP!,Indie Pop,"April 24, 2020",http://open.spotify.com/album/2A2k0MgzDEiFjW3ejlpxxV,20.0,56.666666666666664,1,0,0,,20.0,
-Mark Lanegan,Straight Songs Of Sorrow,Singer-Songwriter,"May 8, 2020",http://open.spotify.com/album/5MscroQK1QhbVhUJs1gNXf,21.0,57.0,1,0,0,21.0,,
-James Elkington,Ever-Roving Eye,Folk,"April 3, 2020",No Spotify Link Found,21.0,57.0,1,0,0,,,21.0
-Yves Tumor,Heaven To A Tortured Mind,Neo-Psychedelia,"April 3, 2020",http://open.spotify.com/album/5wnCTZtzIZxasRSHzI1JeW,21.0,57.0,1,0,0,,21.0,
-Leonard Cohen,Thanks for the Dance,Singer-Songwriter,"November 22, 2019",http://open.spotify.com/album/603qWApi8Q89JnkVAbixrb,22.0,57.333333333333336,1,0,0,22.0,,
-The Beths,Jump Rope Gazers,Indie Rock,"July 10, 2020",http://open.spotify.com/album/5rwWTJEIAyzBbRjEU0BTfA,22.0,57.333333333333336,1,0,0,,22.0,
-Georgia,Seeking Thrills,Electropop,"January 10, 2020",http://open.spotify.com/album/26FuPLPN5Vyznv9yFxKOTM,24.0,58.0,1,0,0,,24.0,
-Khruangbin,Mordechai,Psychedelic Rock,"June 26, 2020",http://open.spotify.com/album/06814vxpRbL5CPMk1CTvOk,26.0,58.666666666666664,1,0,0,26.0,,
-Isobel Campbell,There Is No Other,Chamber Pop,"February 7, 2020",http://open.spotify.com/album/3UV8GZVOWHiooIByFrMLYa,26.0,58.666666666666664,1,0,0,,26.0,
-Kevin Morby,Sundowner,Singer-Songwriter,"October 16, 2020",http://open.spotify.com/album/6s8xpXYalmDufcKB0InMsC,27.0,59.0,1,0,0,,,27.0
-Kelly Lee Owens,Inner Song,Tech House,"August 28, 2020",http://open.spotify.com/album/3DzlkHEQtb0ABoxze4Zxi7,28.0,59.333333333333336,1,0,0,,28.0,
-Songhoy Blues,Optimisme,Indie Pop,"October 23, 2020",http://open.spotify.com/album/6uK3gAaZuQEh5cpB33B5GF,29.0,59.666666666666664,1,0,0,,,29.0
-Sam Lee,Old Wow,Folk,"January 31, 2020",http://open.spotify.com/album/1QMKGKbYRmIGNPshvw0BHG,30.0,60.0,1,0,0,30.0,,
-Four Tet,Sixteen Oceans,Microhouse,"March 13, 2020",http://open.spotify.com/album/5gIa8hTQGPwVeNYjDwrraZ,30.0,60.0,1,0,0,,30.0,
-Taylor Swift,folklore,Singer-Songwriter,"July 24, 2020",http://open.spotify.com/album/0xS0iOtxQRoJvfcFcJA5Gv,31.0,60.333333333333336,1,0,0,31.0,,
-A Certain Ratio,ACR Loco,Space Rock,"September 25, 2020",http://open.spotify.com/album/0ir4mtY7qNrXyLzQ00dF63,31.0,60.333333333333336,1,0,0,,31.0,
-Afel Bocoum,Lindé,Neo-Psychedelia,"September 4, 2020",http://open.spotify.com/album/7kE6YsxkrkvTnbr1TILCrO,31.0,60.333333333333336,1,0,0,,,31.0
-SLIFT,Ummon,Space Rock,"February 28, 2020",http://open.spotify.com/album/0mDB0OdwVTHh6cb70Fcdxq,32.0,60.666666666666664,1,0,0,,32.0,
-Bananagun,The True Story of Bananagun,Afrobeat,"June 26, 2020",http://open.spotify.com/album/4Zt3u1wMNq6ojjHhOY8Eyf,33.0,61.0,1,0,0,,,33.0
-Keleketla!,Keleketla!,Afrobeat,"July 3, 2020",http://open.spotify.com/album/0sqETr5mwDf494FaWzjnGD,34.0,61.333333333333336,1,0,0,,34.0,
-Maria McKee,La Vita Nuova,Singer-Songwriter,"March 13, 2020",http://open.spotify.com/album/5eFLbPEIaIhGE2hBEs53AU,34.0,61.333333333333336,1,0,0,34.0,,
-Drive-By Truckers,The Unraveling,Americana,"January 31, 2020",http://open.spotify.com/album/0PsRgFSSuSeS5GTtdMqhy1,36.0,62.0,1,0,0,36.0,,
-Nation of Language,"Introduction, Presence",Synthpop,"May 22, 2020",http://open.spotify.com/album/6ogsolFc2FCmP8ru8fBfgQ,36.0,62.0,1,0,0,,36.0,
-Destroyer,Have We Met,Synthpop,"January 31, 2020",http://open.spotify.com/album/3quNG7I59IYGauZ9Tn7Iyk,36.0,62.0,1,0,0,,,36.0
-Dua Lipa,Future Nostalgia,Dance Pop,"March 27, 2020",http://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI,37.0,62.333333333333336,1,0,0,37.0,,
-Ólafur Arnalds,some kind of peace,Modern Classical,"November 6, 2020",http://open.spotify.com/album/5GoNI6fKC1BVsuITYKMRB9,37.0,62.333333333333336,1,0,0,,37.0,
-The Big Moon,Walking Like We Do,Indie Pop,"January 10, 2020",http://open.spotify.com/album/0Z9W4KdFjlAUNGjXx3CVZU,38.0,62.666666666666664,1,0,0,,38.0,
-Bonny Light Horseman,Bonny Light Horseman,Folk,"January 24, 2020",http://open.spotify.com/album/3q7f7kA7ATAR5ZXihBXV7q,38.0,62.666666666666664,1,0,0,,,38.0
-HAIM,Women in Music Pt. III,Indie Pop,"June 26, 2020",http://open.spotify.com/album/4qNGDMsRNqDQZPkTWyyeRF,39.0,63.0,1,0,0,39.0,,
-The Psychedelic Furs,Made of Rain,Post-Punk,"July 31, 2020",http://open.spotify.com/album/3W37i6HXcCPx0DZF5Oy43T,39.0,63.0,1,0,0,,,39.0
-Damaged Bug,Bug on Yonkers,Psychedelic Rock,"July 24, 2020",http://open.spotify.com/album/0cXUH1vFSKh6PQBNknyDIg,39.0,63.0,1,0,0,,39.0,
-Yaeji,WHAT WE DREW 우리가 그려왔던,Hip House,"April 2, 2020",http://open.spotify.com/album/150xIoPgnDoEfRvd0paiIc,40.0,63.333333333333336,1,0,0,,40.0,
-Brigid Dawson and The Mothers Network,Ballet of Apes,Psychedelic Folk,"May 22, 2020",http://open.spotify.com/album/6idL156uolA1BkP1nduQfn,40.0,63.333333333333336,1,0,0,,,40.0
-Romare,Home,Deep House,"July 31, 2020",http://open.spotify.com/album/2IDeHNJEmYrS14aEFCYgpN,41.0,63.666666666666664,1,0,0,,41.0,
-Keeley Forsyth,Debris,Avant-Folk,"January 17, 2020",http://open.spotify.com/album/2SvDBUmz6CjqGxMwKnAdT7,41.0,63.666666666666664,1,0,0,,,41.0
-Bill Fay,Countless Branches,Singer-Songwriter,"January 17, 2020",http://open.spotify.com/album/1a1K5r92gK3xGpM7K7xVzk,42.0,64.0,1,0,0,42.0,,
-The Heliocentrics,Infinity of Now,Nu Jazz,"February 14, 2020",http://open.spotify.com/album/6ygw7R7IcMI7BasTbzRSqT,42.0,64.0,1,0,0,,42.0,
-Róisín Murphy,Róisín Machine,Nu-Disco,"October 2, 2020",http://open.spotify.com/album/5WpDQt6EbpzXbqo9g9P0L6,42.0,64.0,1,0,0,,,42.0
-Mush,3D Routine,Art Punk,"February 14, 2020",http://open.spotify.com/album/51Ff1ezUaJUmM69Vc4j0A1,43.0,64.33333333333333,1,0,0,,43.0,
-Sarah Davachi,"Cantus, Descant",Drone,"September 18, 2020",http://open.spotify.com/album/6QQlw7AOPEaL3ot8V211cV,43.0,64.33333333333333,1,0,0,,,43.0
-Blake Mills,Mutable Set,Singer-Songwriter,"May 8, 2020",http://open.spotify.com/album/3WBhKuBk77KL4nUHkP2xaW,43.0,64.33333333333333,1,0,0,43.0,,
-Eddie Chacon,"Pleasure, Joy and Happiness",Neo-Soul,"July 31, 2020",No Spotify Link Found,44.0,64.66666666666667,1,0,0,,,44.0
-Shopping,All Or Nothing,Post-Punk,"February 7, 2020",http://open.spotify.com/album/3Nvg44zb0oK9BR2gdDanum,44.0,64.66666666666667,1,0,0,,44.0,
-Pearl Jam,Gigaton,Alternative Rock,"March 27, 2020",http://open.spotify.com/album/0EewHRl3pc0R5pBxTAexVm,44.0,64.66666666666667,1,0,0,44.0,,
-Bright Eyes,Down in the Weeds Where the World Once Was,Indie Folk,"August 21, 2020",http://open.spotify.com/album/1GMHBkCYVzWqrrczVDBJKm,45.0,65.0,1,0,0,,,45.0
-Pole,Fading,IDM,"November 6, 2020",http://open.spotify.com/album/66bDcaOv0moGHoaeAY5vT6,45.0,65.0,1,0,0,,45.0,
-Nick Mason's Saucerful Of Secrets,Live at the Roundhouse,Psychedelic Rock,"April 17, 2020",No Spotify Link Found,46.0,65.33333333333333,1,0,0,46.0,,
-Roger Eno & Brian Eno,Mixing Colours,Ambient,"March 20, 2020",No Spotify Link Found,46.0,65.33333333333333,1,0,0,,,46.0
-DEHD,Flower Of Devotion,Indie Rock,"July 17, 2020",http://open.spotify.com/album/0kn1V8vpoxtEw69CcMDlik,46.0,65.33333333333333,1,0,0,,46.0,
-Working Men's Club,Working Men's Club,Synthpop,"October 2, 2020",http://open.spotify.com/album/4Uzll2pB5SnmC0rulgDHyB,47.0,65.66666666666667,1,0,0,,,47.0
-Aquiles Navarro & Tcheser Holmes,‎Heritage of the Invisible II,Avant-Garde Jazz,"October 23, 2020",No Spotify Link Found,47.0,65.66666666666667,1,0,0,,47.0,
-Tricky,Fall to Pieces,Trip Hop,"September 4, 2020",http://open.spotify.com/album/1Ub34iySvUKpXmgwnHhIq9,47.0,65.66666666666667,1,0,0,47.0,,
-Bob Mould,Blue Hearts,Alternative Rock,"September 25, 2020",http://open.spotify.com/album/13ioe4Gi99cfMH1glnKOUN,48.0,66.0,1,0,0,,48.0,
-Nadia Reid,Out of My Province,Indie Folk,"March 6, 2020",http://open.spotify.com/album/37ymm9QGZFi1sAQJrQZCzI,48.0,66.0,1,0,0,48.0,,
-Gwenifer Raymond,Strange Lights Over Garth Mountain,Country,"November 13, 2020",http://open.spotify.com/album/5KyXUkcCGN6Gb9sVKXyQ3N,49.0,66.33333333333333,1,0,0,,,49.0
-Lianne La Havas,Lianne La Havas,Neo-Soul,"July 17, 2020",http://open.spotify.com/album/6JwtB0zzNYy4qANDrJtrJy,49.0,66.33333333333333,1,0,0,49.0,,
-Jessy Lanza,All The Time,Alternative R&B,"July 24, 2020",http://open.spotify.com/album/11yM9uazEEt9YjNwvMLhkA,49.0,66.33333333333333,1,0,0,,49.0,
-Nick Hakim,WILL THIS MAKE ME GOOD,Psychedelic Soul,"May 15, 2020",http://open.spotify.com/album/5wHIOaV0DXf73kL7i5blmM,50.0,66.66666666666667,1,0,0,,50.0,
-Sufjan Stevens,The Ascension,Indietronica,"September 25, 2020",http://open.spotify.com/album/1tYHjJ50WowcNvDTLdf6Wo,50.0,66.66666666666667,1,0,0,50.0,,
+Artist,Title,Genre,Release Date,Spotify Link,avg,cons_score,num_lists,count_1,count_top10,GorillaVsBear,Mojo,Paste,Quietus,RoughTrade,Uncut
+SAULT,UNTITLED (Black Is),Neo-Soul,"June 19, 2020",http://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle,11.2,21.833333333333332,5,1,2,2.0,19.0,17.0,,1.0,17.0
+Phoebe Bridgers,Punisher,Singer-Songwriter,"June 18, 2020",http://open.spotify.com/album/2xECuqnvvmVktV7UO8Dd3s,7.0,29.666666666666668,4,0,3,,9.0,14.0,,2.0,3.0
+Fontaines D.C.,A Hero's Death,Post-Punk,"July 31, 2020",http://open.spotify.com/album/1TG1jA82COlOCK63DjmiT3,20.25,38.5,4,0,1,,3.0,40.0,,23.0,15.0
+JARV IS...,Beyond the Pale,Art Rock,"July 17, 2020",http://open.spotify.com/album/11TCoFgFirZuNc0qjXyjmW,6.666666666666667,40.833333333333336,3,0,3,,7.0,,,5.0,8.0
+SAULT,Untitled (Rise),Neo-Soul,"September 18, 2020",http://open.spotify.com/album/0K8jX7CLwxJaML5iXdxveF,7.666666666666667,41.333333333333336,3,0,2,2.0,,4.0,17.0,,
+Fiona Apple,Fetch the Bolt Cutters,Art Pop,"April 17, 2020",http://open.spotify.com/album/0fO1KemWL2uCCQmM22iKlj,8.333333333333334,41.666666666666664,3,1,2,,2.0,1.0,,,22.0
+Bob Dylan,Rough and Rowdy Ways,Singer-Songwriter,"June 19, 2020",http://open.spotify.com/album/1Qht64MPvWTWa0aMsqxegB,8.333333333333334,41.666666666666664,3,2,2,,1.0,23.0,,,1.0
+Waxahatchee,Saint Cloud,Alt-Country,"March 27, 2020",http://open.spotify.com/album/04HMMwLmjkftjWy7xc6Bho,8.666666666666666,41.833333333333336,3,0,2,,,2.0,,18.0,6.0
+Laura Marling,Song For Our Daughter,Folk,"April 10, 2020",http://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu,10.333333333333334,42.666666666666664,3,0,2,,17.0,,,4.0,10.0
+Fleet Foxes,Shore,Indie Folk,"September 22, 2020",http://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3,11.333333333333334,43.166666666666664,3,0,2,,5.0,27.0,,,2.0
+Run the Jewels,RTJ4,Hip Hop,"June 3, 2020",http://open.spotify.com/album/0DLkBrivkPhPGeSowPUyde,12.0,43.5,3,0,2,,8.0,3.0,,25.0,
+Moses Sumney,græ,Art Pop,"May 15, 2020",http://open.spotify.com/album/35CHoLB0GEwYlOomriifC6,15.666666666666666,45.333333333333336,3,0,1,,13.0,10.0,,,24.0
+Cornershop,England is a Garden,Indie Pop,"March 6, 2020",http://open.spotify.com/album/6gHLOAoKYiuSjrZOFksGrQ,15.666666666666666,45.333333333333336,3,0,1,,6.0,,,11.0,30.0
+Thundercat,It Is What It Is,Psychedelic Soul,"April 3, 2020",http://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9,16.333333333333332,45.666666666666664,3,0,1,,29.0,15.0,,,5.0
+Bill Callahan,Gold Record,Americana,"September 4, 2020",http://open.spotify.com/album/309GzmwSB1Aj3gh8Tpp3Fo,18.0,46.5,3,0,2,,4.0,,43.0,,7.0
+Shirley Collins,Heart's Ease,Folk,"July 24, 2020",http://open.spotify.com/album/6QyzSKLdZy8E9i4fnyJQf4,23.333333333333332,49.166666666666664,3,0,1,,28.0,,33.0,,9.0
+Nubya Garcia,Source,Jazz,"August 21, 2020",http://open.spotify.com/album/5iooBeTrG8wPKMgo7OAOX6,27.666666666666668,51.333333333333336,3,0,0,,20.0,38.0,,,25.0
+Rina Sawayama,SAWAYAMA,R&B,"April 17, 2020",http://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J,5.5,51.833333333333336,2,0,2,,,8.0,,3.0,
+Pa Salieu,Send Them to Coventry,UK Hip Hop,"November 13, 2020",http://open.spotify.com/album/07XuUjDVxufzEQI5bGpzhT,6.0,52.0,2,0,2,3.0,,,9.0,,
+Kelly Lee Owens,Inner Song,Tech House,"August 28, 2020",http://open.spotify.com/album/3DzlkHEQtb0ABoxze4Zxi7,29.333333333333332,52.166666666666664,3,0,0,42.0,,18.0,,28.0,
+Porridge Radio,Every Bad,Indie Rock,"March 13, 2020",http://open.spotify.com/album/4DN3XbB33kHTJA7HhI0RFI,7.5,52.5,2,0,2,,,6.0,,9.0,
+Oklou,Galore,Ambient Pop,"August 25, 2020",http://open.spotify.com/album/6s7TtMHRcoy8D0ipc0wmjE,9.5,53.166666666666664,2,0,1,7.0,,,,12.0,
+Jason Isbell & The 400 Unit,Reunions,Americana,"May 15, 2020",http://open.spotify.com/album/5XIafkwTpyvL7jjLJx1xKz,11.5,53.833333333333336,2,0,0,,,12.0,,,11.0
+Dua Lipa,Future Nostalgia,Dance Pop,"March 27, 2020",http://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI,32.666666666666664,53.833333333333336,3,0,0,21.0,37.0,,40.0,,
+Adrianne Lenker,songs,Folk,"October 23, 2020",http://open.spotify.com/album/2WKfCjW3EDmgHswj5eVXuG,12.5,54.166666666666664,2,0,1,16.0,,9.0,,,
+Idles,Ultra Mono,Art Punk,"September 25, 2020",http://open.spotify.com/album/0ojQHzflxMs6SfvBBkRKt6,13.0,54.333333333333336,2,0,0,,12.0,,,14.0,
+Perfume Genius,Set My Heart on Fire Immediately,Art Pop,"May 15, 2020",http://open.spotify.com/album/6daEdTBi1hyFQgmsnR7oRr,13.0,54.333333333333336,2,0,1,,,5.0,21.0,,
+Caribou,Suddenly,Indietronica,"February 28, 2020",http://open.spotify.com/album/4wSb7OhVUzw3u76lta9fJw,13.0,54.333333333333336,2,0,0,,,11.0,,15.0,
+Duval Timothy,Help,Neo-Soul,"August 7, 2020",http://open.spotify.com/album/6XgC2zL6j2hrqrAbYsaGmN,15.5,55.166666666666664,2,0,1,25.0,,,6.0,,
+Frazey Ford,U kin B the Sun,Singer-Songwriter,"February 7, 2020",http://open.spotify.com/album/4N5WuLpUuLCY98TrthGv3C,16.5,55.5,2,0,0,,15.0,,,,18.0
+Paul Weller,On Sunset,Pop Rock,"July 3, 2020",http://open.spotify.com/album/1waaO5SrI0BdKtdR9YZLRu,17.0,55.666666666666664,2,0,0,,11.0,,,,23.0
+Freddie Gibbs & The Alchemist,Alfredo,Hip Hop,"May 29, 2020",http://open.spotify.com/album/3znl1qe13kyjQv7KcR685N,17.5,55.833333333333336,2,0,0,22.0,,13.0,,,
+Moses Boyd,Dark Matter,Nu Jazz,"February 14, 2020",http://open.spotify.com/album/4XRA7yDYWSkO5BMvZinESW,18.0,56.0,2,0,0,,24.0,,,,12.0
+Rolling Blackouts Coastal Fever,Sideways To New Italy,Jangle Pop,"June 5, 2020",http://open.spotify.com/album/1OzdsJy52aBL2JftPLwRS0,18.0,56.0,2,0,1,,,,,10.0,26.0
+Yves Tumor,Heaven To A Tortured Mind,Neo-Psychedelia,"April 3, 2020",http://open.spotify.com/album/5wnCTZtzIZxasRSHzI1JeW,20.5,56.833333333333336,2,0,0,,,20.0,,21.0,
+The Flaming Lips,American Head,Neo-Psychedelia,"September 11, 2020",http://open.spotify.com/album/4H8NX3ovAZdY2iJmwSNqlw,21.0,57.0,2,0,1,,10.0,,,,32.0
+Courtney Marie Andrews,Old Flowers,Singer-Songwriter,"July 24, 2020",http://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI,21.5,57.166666666666664,2,0,0,,,,,29.0,14.0
+Stephen Malkmus,Traditional Techniques,Folk Rock,"March 6, 2020",http://open.spotify.com/album/3SAhjjtkodnZ9cEiiOiTAA,21.5,57.166666666666664,2,0,0,,27.0,,,,16.0
+Ana Roxanne,Because of a Flower,Ambient,"November 13, 2020",http://open.spotify.com/album/4JShepplFefZ43GXoE4bRd,22.0,57.333333333333336,2,0,0,14.0,,,30.0,,
+Brigid Mae Power,Head Above The Water,Singer-Songwriter,"June 5, 2020",http://open.spotify.com/album/6ma04X4LKQaCj8FAohLjye,23.0,57.666666666666664,2,0,0,,,,,27.0,19.0
+Julianna Barwick,Healing Is a Miracle,Ambient,"July 10, 2020",http://open.spotify.com/album/4GaLdSDDbRK0CoJKSnihbo,26.5,58.833333333333336,2,0,0,29.0,,24.0,,,
+Yaeji,WHAT WE DREW 우리가 그려왔던,Hip House,"April 2, 2020",http://open.spotify.com/album/150xIoPgnDoEfRvd0paiIc,26.5,58.833333333333336,2,0,0,13.0,,,,40.0,
+Tame Impala,The Slow Rush,Neo-Psychedelia,"February 14, 2020",http://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL,27.0,59.0,2,0,0,,41.0,,,,13.0
+Thurston Moore,By the Fire,Noise Rock,"September 25, 2020",http://open.spotify.com/album/4BDskQQhVpsxax7WGOUJQQ,28.5,59.5,2,0,0,,40.0,,,17.0,
+Shabaka and the Ancestors,We Are Sent Here By History,Jazz,"March 13, 2020",http://open.spotify.com/album/4S5MLu2PKU7uElm2V3JphK,29.0,59.666666666666664,2,0,0,,23.0,,,,35.0
+Keeley Forsyth,Debris,Avant-Folk,"January 17, 2020",http://open.spotify.com/album/2SvDBUmz6CjqGxMwKnAdT7,29.5,59.833333333333336,2,0,0,,,,18.0,,41.0
+Jessy Lanza,All The Time,Alternative R&B,"July 24, 2020",http://open.spotify.com/album/11yM9uazEEt9YjNwvMLhkA,30.0,60.0,2,0,0,11.0,,,,49.0,
+Sparks,"A Steady Drip, Drip, Drip",Art Pop,"May 15, 2020",http://open.spotify.com/album/43DZQacT84CN8EYfKcmeSL,31.0,60.333333333333336,2,0,0,,25.0,,,,37.0
+Coriky,Coriky,Indie Rock,"June 12, 2020",http://open.spotify.com/album/5tq1YTBXOODRZERatJ7f1U,32.5,60.833333333333336,2,0,0,,32.0,,,33.0,
+Bruce Springsteen,Letter To You,Heartland Rock,"October 23, 2020",http://open.spotify.com/album/3KTfabkxxVzhXupBScd2sK,32.5,60.833333333333336,2,0,0,,45.0,,,,20.0
+Jessie Ware,What's Your Pleasure?,Dance Pop,"June 26, 2020",http://open.spotify.com/album/1CTm3ARqDETSm7GfvNYNJp,33.0,61.0,2,0,0,27.0,,39.0,,,
+Lucinda Williams,Good Souls Better Angels,Blues Rock,"April 24, 2020",http://open.spotify.com/album/3sF4iIrRTsRNKC6AMR6D2d,33.0,61.0,2,0,0,,38.0,,,,28.0
+Ela Minus,acts of rebellion,Electropop,"October 23, 2020",http://open.spotify.com/album/6PhhsnbohAEOXBdqsURBeh,34.0,61.333333333333336,2,0,0,37.0,,31.0,,,
+Rose City Band,Summerlong,Country Rock,"May 15, 2020",http://open.spotify.com/album/2xbuO6C2TK9hjQZFMi56Pf,34.5,61.5,2,0,0,,35.0,,,,34.0
+Bonny Light Horseman,Bonny Light Horseman,Folk,"January 24, 2020",http://open.spotify.com/album/3q7f7kA7ATAR5ZXihBXV7q,36.0,62.0,2,0,0,,,34.0,,,38.0
+Destroyer,Have We Met,Synthpop,"January 31, 2020",http://open.spotify.com/album/3quNG7I59IYGauZ9Tn7Iyk,37.5,62.5,2,0,0,,,,39.0,,36.0
+Hey Colossus,Dances / Curses,Psychedelic Rock,"November 6, 2020",http://open.spotify.com/album/5nGpVWPGJy1dGeEy38sQ5T,1.0,62.666666666666664,1,1,1,,,,1.0,,
+Helena Deland,Someone New,Indie Pop,"October 16, 2020",http://open.spotify.com/album/3qlFvxg4y1POFOyIn6lPXb,1.0,62.666666666666664,1,1,1,1.0,,,,,
+Nation of Language,"Introduction, Presence",Synthpop,"May 22, 2020",http://open.spotify.com/album/6ogsolFc2FCmP8ru8fBfgQ,38.5,62.833333333333336,2,0,0,,,41.0,,36.0,
+The Soft Pink Truth,Shall We Go On Sinning So That Grace May Increase?,Ambient,"May 1, 2020",http://open.spotify.com/album/1e3s36bc0Ell9KOKEsf16V,2.0,62.833333333333336,1,0,1,,,,2.0,,
+Special Interest,The Passion Of,Synth Punk,"June 19, 2020",http://open.spotify.com/album/1A8tZPpBIiYfF1lNFj4QbR,3.0,63.0,1,0,1,,,,3.0,,
+Lyra Pramuk,Fountain,Ambient,"March 20, 2020",http://open.spotify.com/album/1wL3qXTeiRKUhEJM1tOf5q,4.0,63.166666666666664,1,0,1,,,,4.0,,
+Sea Oleena,Weaving a Basket,Alternative R&B,"October 31, 2020",No Spotify Link Found,4.0,63.166666666666664,1,0,1,4.0,,,,,
+Drive-By Truckers,The New OK,Southern Rock,"October 2, 2020",http://open.spotify.com/album/3fK2I55hHahI81IxSM8KLU,4.0,63.166666666666664,1,0,1,,,,,,4.0
+UKAEA,Energy is Forever,Neo-Soul,"November 13, 2020",No Spotify Link Found,5.0,63.333333333333336,1,0,1,,,,5.0,,
+070 Shake,Modus Vivendi,Alternative R&B,"January 17, 2020",http://open.spotify.com/album/1PCwiCVNp2V1Jcp8hSUEyB,5.0,63.333333333333336,1,0,1,5.0,,,,,
+HAIM,Women in Music Pt. III,Indie Pop,"June 26, 2020",http://open.spotify.com/album/4qNGDMsRNqDQZPkTWyyeRF,40.5,63.5,2,0,0,,39.0,42.0,,,
+Salem,Fires in Heaven,Witch House,"October 30, 2020",http://open.spotify.com/album/1G9NXS6bwV9JHeaCNETAFI,6.0,63.5,1,0,1,6.0,,,,,
+The Necks,Three,Avant-Garde Jazz,"March 27, 2020",http://open.spotify.com/album/2qWLFav8tDhDt2NyNOjAb0,40.5,63.5,2,0,0,,33.0,,,,48.0
+Dream Wife,So When You Gonna...,Indie Rock,"July 3, 2020",http://open.spotify.com/album/6YJwKHuYNokOjYekMv3Kga,6.0,63.5,1,0,1,,,,,6.0,
+Pigs Pigs Pigs Pigs Pigs Pigs Pigs,Viscerals,Stoner Metal,"April 3, 2020",http://open.spotify.com/album/15CVkItclaGrn0xLr16Qw0,7.0,63.666666666666664,1,0,1,,,,,7.0,
+Squarepusher,Be Up a Hello,Electronic,"January 31, 2020",http://open.spotify.com/album/1zcfHeYC0sEQs3D3fCAr4m,7.0,63.666666666666664,1,0,1,,,,7.0,,
+Soccer Mommy,color theory,Singer-Songwriter,"February 28, 2020",http://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez,7.0,63.666666666666664,1,0,1,,,7.0,,,
+bdrmm,Bedroom,Dream Pop,"July 3, 2020",http://open.spotify.com/album/3Pu648nWwshjvkl96rKxPS,8.0,63.833333333333336,1,0,1,,,,,8.0,
+Nadine Shah,Kitchen Sink,Art Rock,"June 26, 2020",http://open.spotify.com/album/0Your9tq4Z8voUjLG9pubz,8.0,63.833333333333336,1,0,1,,,,8.0,,
+Cindy Lee,What's Tonight to Eternity,Lo-Fi,"February 14, 2020",http://open.spotify.com/album/5BEV4gGnAkRsLuoW3FQeqN,8.0,63.833333333333336,1,0,1,8.0,,,,,
+Cindy Lee,Cat O' Nine Tails,Hypnagogic Pop,"April 14, 2020",No Spotify Link Found,8.0,63.833333333333336,1,0,1,8.0,,,,,
+Grimes,Miss Anthropocene,Art Pop,"February 21, 2020",http://open.spotify.com/album/35qyYk6OV6H8GxhS80NkzF,9.0,64.0,1,0,1,9.0,,,,,
+Margo Price,That's How Rumors Get Started,Country,"July 10, 2020",http://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL,42.5,64.16666666666667,2,0,0,,,,,35.0,50.0
+Nazar,Guerrilla,Post-Industrial,"March 13, 2020",http://open.spotify.com/album/3KEgoCxUb76KMU2I2iuHS4,10.0,64.16666666666667,1,0,1,,,,10.0,,
+Mary Lattimore,Silver Ladders,Ambient,"October 9, 2020",http://open.spotify.com/album/1CoYuZnDfAqv2rbUpCgfQx,42.5,64.16666666666667,2,0,0,50.0,,,35.0,,
+Moodymann,TAKEN AWAY,Deep House,"May 21, 2020",No Spotify Link Found,10.0,64.16666666666667,1,0,1,10.0,,,,,
+Alison Cotton,Only Darkness Now,Drone,"October 25, 2020",http://open.spotify.com/album/2bHzum3ZgNBpNxHoSe63d8,11.0,64.33333333333333,1,0,0,,,,11.0,,
+Einstürzende Neubauten,Alles in Allem,Art Pop,"May 15, 2020",http://open.spotify.com/album/5GzPXmhp1ztLM8S0DqN8Gz,12.0,64.5,1,0,0,,,,12.0,,
+Alle,Alletiders,Hip House,"May 8, 2020",No Spotify Link Found,12.0,64.5,1,0,0,12.0,,,,,
+Autechre,SIGN,Ambient,"October 16, 2020",http://open.spotify.com/album/1KBFcrlvo6vDVOSrWoYy3K,13.0,64.66666666666667,1,0,0,,,,13.0,,
+Oh Sees,Protean Threat,Garage Punk,"September 18, 2020",http://open.spotify.com/album/16l3FJwjZooUHbU37sdeeI,13.0,64.66666666666667,1,0,0,,,,,13.0,
+Land Trance,First Séance,Ambient,"May 1, 2020",http://open.spotify.com/album/4L2f4hjgsFnxEzbaBKnNny,14.0,64.83333333333333,1,0,0,,,,14.0,,
+Tony Allen & Hugh Masekela,Rejoice,Jazz,"March 20, 2020",http://open.spotify.com/album/061q5E43gIp25oJxVxvAav,14.0,64.83333333333333,1,0,0,,14.0,,,,
+Sweet Whirl,How Much Works,Singer-Songwriter,"May 29, 2020",http://open.spotify.com/album/76cnV0TMWQzPdqE1n3hUfY,15.0,65.0,1,0,0,15.0,,,,,
+Duma,Duma,Industrial,"August 7, 2020",http://open.spotify.com/album/1jEsVcciMGOYLx0gj1Y3oQ,15.0,65.0,1,0,0,,,,15.0,,
+Richard Skelton,These Charms May Be Sung Over A Wound,Ambient,"September 25, 2020",http://open.spotify.com/album/5gf61btA3GyD2ybD4kiQyS,16.0,65.16666666666667,1,0,0,,,,16.0,,
+Adrianne Lenker,instrumentals,Ambient,"October 23, 2020",http://open.spotify.com/album/25llO5FF2feSQx4Fxyd20O,16.0,65.16666666666667,1,0,0,16.0,,,,,
+Nick Cave,Idiot Prayer: Nick Cave Alone at Alexandra Palace,Singer-Songwriter,"November 20, 2020",http://open.spotify.com/album/7o6zfGW9eywRuc0eOdzJFK,16.0,65.16666666666667,1,0,0,,16.0,,,,
+Backxwash,God Has Nothing To Do With This Leave Him Out Of It,Experimental Hip Hop,"May 28, 2020",http://open.spotify.com/album/1rE7wAUQnDD109mldMff6p,16.0,65.16666666666667,1,0,0,,,16.0,,,
+Tom Misch & Yussef Dayes,What Kinda Music,Neo-Soul,"April 24, 2020",http://open.spotify.com/album/6iOCv7oGL5sGi2aVnRz2BI,16.0,65.16666666666667,1,0,0,,,,,16.0,
+Shabazz Palaces,The Don of Diamond Dreams,Abstract Hip Hop,"April 17, 2020",http://open.spotify.com/album/3SCw5AabAqeNygf0OUDVUn,17.0,65.33333333333333,1,0,0,17.0,,,,,
+Oneohtrix Point Never,Magic Oneohtrix Point Never,Progressive Electronic,"October 30, 2020",http://open.spotify.com/album/0oGzSazidykcL5XNTEuS9z,18.0,65.5,1,0,0,18.0,,,,,
+Toots & The Maytals,Got to Be Tough,Reggae,"August 28, 2020",http://open.spotify.com/album/6TpWt5DjGFB6TyvvMjrBLh,18.0,65.5,1,0,0,,18.0,,,,
+Kamaal Williams,Wu Hen,Nu Jazz,"July 24, 2020",http://open.spotify.com/album/04kN5iKwGoYMSkr9cPZrWp,19.0,65.66666666666667,1,0,0,,,,,19.0,
+Sweeping Promises,Hunger For A Way Out,Post-Punk,"August 14, 2020",No Spotify Link Found,19.0,65.66666666666667,1,0,0,19.0,,,,,
+U.S. Girls,Heavy Light,Art Pop,"March 6, 2020",http://open.spotify.com/album/66LP9b290P2kVNJB19Mi1C,19.0,65.66666666666667,1,0,0,,,19.0,,,
+Sex Swing,Type II,Noise Rock,"May 15, 2020",http://open.spotify.com/album/4wijjZz9FY0KpJBrlNhgg1,19.0,65.66666666666667,1,0,0,,,,19.0,,
+DEHD,Flower Of Devotion,Indie Rock,"July 17, 2020",http://open.spotify.com/album/0kn1V8vpoxtEw69CcMDlik,47.0,65.66666666666667,2,0,0,,,48.0,,46.0,
+Annie,Dark Hearts,Synthpop,"October 16, 2020",http://open.spotify.com/album/6H44DvUiZ5WnjwEtnEHIMk,20.0,65.83333333333333,1,0,0,,,,20.0,,
+Westerman,Your Hero Is Not Dead,Art Pop,"June 5, 2020",http://open.spotify.com/album/6zSzwpkKgNJfQWwCEQTQDv,20.0,65.83333333333333,1,0,0,20.0,,,,,
+Hazel English,Wake UP!,Indie Pop,"April 24, 2020",http://open.spotify.com/album/2A2k0MgzDEiFjW3ejlpxxV,20.0,65.83333333333333,1,0,0,,,,,20.0,
+Mark Lanegan,Straight Songs Of Sorrow,Singer-Songwriter,"May 8, 2020",http://open.spotify.com/album/5MscroQK1QhbVhUJs1gNXf,21.0,66.0,1,0,0,,21.0,,,,
+James Elkington,Ever-Roving Eye,Folk,"April 3, 2020",No Spotify Link Found,21.0,66.0,1,0,0,,,,,,21.0
+Lianne La Havas,Lianne La Havas,Neo-Soul,"July 17, 2020",http://open.spotify.com/album/6JwtB0zzNYy4qANDrJtrJy,48.0,66.0,2,0,0,,49.0,47.0,,,
+Nothing,The Great Dismal,Shoegaze,"October 30, 2020",http://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3,21.0,66.0,1,0,0,,,21.0,,,
+Horse Lords,The Common Task,Math Rock,"March 13, 2020",http://open.spotify.com/album/4K3Dv0nnMK10uxpphFNCco,22.0,66.16666666666667,1,0,0,,,,22.0,,
+The Beths,Jump Rope Gazers,Indie Rock,"July 10, 2020",http://open.spotify.com/album/5rwWTJEIAyzBbRjEU0BTfA,22.0,66.16666666666667,1,0,0,,,,,22.0,
+Young Jesus,Welcome to Conceptual Beach,Art Rock,"August 14, 2020",http://open.spotify.com/album/76nK69DufkCMk1v8kkmSA5,22.0,66.16666666666667,1,0,0,,,22.0,,,
+Leonard Cohen,Thanks for the Dance,Singer-Songwriter,"November 22, 2019",http://open.spotify.com/album/603qWApi8Q89JnkVAbixrb,22.0,66.16666666666667,1,0,0,,22.0,,,,
+Beatrice Dillon,Workaround,Electroacoustic,"February 7, 2020",http://open.spotify.com/album/1kGLxIjski3cSPhXBJRnw9,23.0,66.33333333333333,1,0,0,,,,23.0,,
+Discovery Zone,Remote Control,Bubblegum Bass,"June 5, 2020",No Spotify Link Found,23.0,66.33333333333333,1,0,0,23.0,,,,,
+Charli XCX,how i'm feeling now,Bubblegum Bass,"May 15, 2020",http://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu,24.0,66.5,1,0,0,24.0,,,,,
+Georgia,Seeking Thrills,Electropop,"January 10, 2020",http://open.spotify.com/album/26FuPLPN5Vyznv9yFxKOTM,24.0,66.5,1,0,0,,,,,24.0,
+Howie Lee,7 Weapons Series,Wonky,"September 4, 2020",http://open.spotify.com/album/273jBFwn0Zf8d5LLuF2Nhz,24.0,66.5,1,0,0,,,,24.0,,
+Ben Seretan,Youth Pastoral,Indie Folk,"February 28, 2020",http://open.spotify.com/album/7A1fIgDqjMmqTSELobsknk,25.0,66.66666666666667,1,0,0,,,25.0,,,
+Upsammy,Zoom,IDM,"June 8, 2020",http://open.spotify.com/album/6Fgw2NUHzJFbOQ5u4o0Clq,25.0,66.66666666666667,1,0,0,,,,25.0,,
+Hen Ogledd,Free Humans,Art Pop,"September 25, 2020",http://open.spotify.com/album/7oIXolIsJGvF7QI4FZAekK,26.0,66.83333333333333,1,0,0,,,,26.0,,
+Khruangbin,Mordechai,Psychedelic Rock,"June 26, 2020",http://open.spotify.com/album/06814vxpRbL5CPMk1CTvOk,26.0,66.83333333333333,1,0,0,,26.0,,,,
+The Microphones,Microphones in 2020,Singer-Songwriter,"August 7, 2020",No Spotify Link Found,26.0,66.83333333333333,1,0,0,,,26.0,,,
+Shinichi Atobe,Yes,House,"July 10, 2020",No Spotify Link Found,26.0,66.83333333333333,1,0,0,26.0,,,,,
+Isobel Campbell,There Is No Other,Chamber Pop,"February 7, 2020",http://open.spotify.com/album/3UV8GZVOWHiooIByFrMLYa,26.0,66.83333333333333,1,0,0,,,,,26.0,
+Jeff Parker,Suite for Max Brown,Nu Jazz,"January 24, 2020",http://open.spotify.com/album/2t6aF3BwIOKKQSpuHKGDAW,27.0,67.0,1,0,0,,,,27.0,,
+Kevin Morby,Sundowner,Singer-Songwriter,"October 16, 2020",http://open.spotify.com/album/6s8xpXYalmDufcKB0InMsC,27.0,67.0,1,0,0,,,,,,27.0
+Hum,Inlet,Shoegaze,"June 23, 2020",http://open.spotify.com/album/6SfnjkSphtKowg3tt7azDi,28.0,67.16666666666667,1,0,0,,,28.0,,,
+Squirrel Flower,I Was Born Swimming,Indie Rock,"January 31, 2020",http://open.spotify.com/album/5dVdUtd7lRixbHXzqx29br,28.0,67.16666666666667,1,0,0,28.0,,,,,
+Meridian Brothers,Cumbia Siglo XXI,Art Pop,"August 21, 2020",http://open.spotify.com/album/6s91YTFJHq3LWDRMC4QOvp,28.0,67.16666666666667,1,0,0,,,,28.0,,
+Songhoy Blues,Optimisme,Indie Pop,"October 23, 2020",http://open.spotify.com/album/6uK3gAaZuQEh5cpB33B5GF,29.0,67.33333333333333,1,0,0,,,,,,29.0
+Thanya Iyer,KIND,Neo-Soul,"July 31, 2020",http://open.spotify.com/album/293y7ywkyFHlRH6QHPIMpp,29.0,67.33333333333333,1,0,0,,,29.0,,,
+MXLX,Serpent,Post-Industrial,"March 6, 2020",No Spotify Link Found,29.0,67.33333333333333,1,0,0,,,,29.0,,
+Sam Lee,Old Wow,Folk,"January 31, 2020",http://open.spotify.com/album/1QMKGKbYRmIGNPshvw0BHG,30.0,67.5,1,0,0,,30.0,,,,
+Four Tet,Sixteen Oceans,Microhouse,"March 13, 2020",http://open.spotify.com/album/5gIa8hTQGPwVeNYjDwrraZ,30.0,67.5,1,0,0,,,,,30.0,
+Lido Pimienta,Miss Colombia,Art Pop,"April 17, 2020",http://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y,30.0,67.5,1,0,0,,,30.0,,,
+Gia Margaret,Mia Gargaret,Ambient,"June 12, 2020",http://open.spotify.com/album/0NZqwH80237QvwcJDlOia7,30.0,67.5,1,0,0,30.0,,,,,
+Taylor Swift,folklore,Singer-Songwriter,"July 24, 2020",http://open.spotify.com/album/0xS0iOtxQRoJvfcFcJA5Gv,31.0,67.66666666666667,1,0,0,,31.0,,,,
+TOPS,I Feel Alive,Indie Pop,"April 3, 2020",http://open.spotify.com/album/2pr48jsmxYjCtOw25k5Dq4,31.0,67.66666666666667,1,0,0,31.0,,,,,
+A Certain Ratio,ACR Loco,Space Rock,"September 25, 2020",http://open.spotify.com/album/0ir4mtY7qNrXyLzQ00dF63,31.0,67.66666666666667,1,0,0,,,,,31.0,
+Afel Bocoum,Lindé,Neo-Psychedelia,"September 4, 2020",http://open.spotify.com/album/7kE6YsxkrkvTnbr1TILCrO,31.0,67.66666666666667,1,0,0,,,,,,31.0
+Phantom Posse,Forever Underground,Indie Pop,"March 20, 2020",No Spotify Link Found,31.0,67.66666666666667,1,0,0,,,,31.0,,
+Protomartyr,Ultimate Success Today,Post-Punk,"July 17, 2020",http://open.spotify.com/album/1prgWeOu8QaOZnMeUeTdhN,32.0,67.83333333333333,1,0,0,,,32.0,,,
+Actress,Karma & Desire,Ambient,"October 23, 2020",http://open.spotify.com/album/5tDW2Im2auURmW8IOA8dQ1,32.0,67.83333333333333,1,0,0,32.0,,,,,
+Algiers,There Is No Year,Post-Punk,"January 17, 2020",http://open.spotify.com/album/7eVY0677xRMK8I4syfRA6M,32.0,67.83333333333333,1,0,0,,,,32.0,,
+SLIFT,Ummon,Space Rock,"February 28, 2020",http://open.spotify.com/album/0mDB0OdwVTHh6cb70Fcdxq,32.0,67.83333333333333,1,0,0,,,,,32.0,
+Bananagun,The True Story of Bananagun,Afrobeat,"June 26, 2020",http://open.spotify.com/album/4Zt3u1wMNq6ojjHhOY8Eyf,33.0,68.0,1,0,0,,,,,,33.0
+Open Mike Eagle,"Anime, Trauma and Divorce",Abstract Hip Hop,"October 16, 2020",http://open.spotify.com/album/23SV7P5U8oF3EJfkdW08wO,33.0,68.0,1,0,0,,,33.0,,,
+Oï les Ox,Crooner qui coule sous les clous,Neo-Psychedelia,"November 25, 2020",No Spotify Link Found,33.0,68.0,1,0,0,33.0,,,,,
+Jon McKiel,Bobby Joe Hope,Neo-Psychedelia,"April 24, 2020",http://open.spotify.com/album/5mvIH4FABTL38eZF0CaRUX,34.0,68.16666666666667,1,0,0,34.0,,,,,
+Maria McKee,La Vita Nuova,Singer-Songwriter,"March 13, 2020",http://open.spotify.com/album/5eFLbPEIaIhGE2hBEs53AU,34.0,68.16666666666667,1,0,0,,34.0,,,,
+Keleketla!,Keleketla!,Afrobeat,"July 3, 2020",http://open.spotify.com/album/0sqETr5mwDf494FaWzjnGD,34.0,68.16666666666667,1,0,0,,,,,34.0,
+Oranssi Pazuzu,Mestarin Kynsi,Psychedelic Rock,"April 17, 2020",http://open.spotify.com/album/0gsk1RGjMrtEDE05s0TZMf,34.0,68.16666666666667,1,0,0,,,,34.0,,
+Chubby and The Gang,Speed Kills,Punk Rock,"January 17, 2020",http://open.spotify.com/album/0wuL6PiAFvBBc1CAjzuQhg,35.0,68.33333333333333,1,0,0,,,35.0,,,
+No Joy,Motherhood,Noise Pop,"August 21, 2020",http://open.spotify.com/album/2yz6yCzAnxPfsNaIUFz1gT,35.0,68.33333333333333,1,0,0,35.0,,,,,
+Bartees Strange,Live Forever,Indie Rock,"October 2, 2020",http://open.spotify.com/album/4Lu520UvMf7lJccCnKw3hJ,36.0,68.5,1,0,0,,,36.0,,,
+Aoife Nessa Frances,Land of No Junction,Indie Folk,"January 17, 2020",http://open.spotify.com/album/10QaSb6RScjUha6Wkeu1Km,36.0,68.5,1,0,0,36.0,,,,,
+Kylie Minogue,DISCO,Disco,"November 6, 2020",http://open.spotify.com/album/7EBIA9cqbuqkyWfp3UCitD,36.0,68.5,1,0,0,,,,36.0,,
+Drive-By Truckers,The Unraveling,Americana,"January 31, 2020",http://open.spotify.com/album/0PsRgFSSuSeS5GTtdMqhy1,36.0,68.5,1,0,0,,36.0,,,,
+Headie One,EDNA,UK Hip Hop,"October 9, 2020",http://open.spotify.com/album/066XCkY2VUxaJHf5g3tHJx,37.0,68.66666666666667,1,0,0,,,,37.0,,
+Cafe Racer,Shadow Talk,Indie Rock,"May 8, 2020",http://open.spotify.com/album/6WwO89y6Dxjn3q9WEZyQ2i,37.0,68.66666666666667,1,0,0,,,37.0,,,
+Ólafur Arnalds,some kind of peace,Modern Classical,"November 6, 2020",http://open.spotify.com/album/5GoNI6fKC1BVsuITYKMRB9,37.0,68.66666666666667,1,0,0,,,,,37.0,
+The Big Moon,Walking Like We Do,Indie Pop,"January 10, 2020",http://open.spotify.com/album/0Z9W4KdFjlAUNGjXx3CVZU,38.0,68.83333333333333,1,0,0,,,,,38.0,
+DJ Python,Mas Amable,Ambient House,"April 10, 2020",http://open.spotify.com/album/2RLMab2R3icqnFA2dYJKVc,38.0,68.83333333333333,1,0,0,,,,38.0,,
+Tan Cologne,Cave Vaults On The Moon In New Mexico,Dream Pop,"February 14, 2020",http://open.spotify.com/album/04kR4F924Lh86Tz4CghPnT,38.0,68.83333333333333,1,0,0,38.0,,,,,
+The Psychedelic Furs,Made of Rain,Post-Punk,"July 31, 2020",http://open.spotify.com/album/3W37i6HXcCPx0DZF5Oy43T,39.0,69.0,1,0,0,,,,,,39.0
+Yves Jarvis,Sundry Rock Song Stock,Psychedelic Folk,"September 25, 2020",http://open.spotify.com/album/7N3gPiUIMhiDEaB3SQtEIy,39.0,69.0,1,0,0,39.0,,,,,
+Damaged Bug,Bug on Yonkers,Psychedelic Rock,"July 24, 2020",http://open.spotify.com/album/0cXUH1vFSKh6PQBNknyDIg,39.0,69.0,1,0,0,,,,,39.0,
+Faten Kanaan,A Mythology of Circles,Art Rock,"November 13, 2020",http://open.spotify.com/album/0nHy9AEVP4FZcAYHLQHSNz,40.0,69.16666666666667,1,0,0,40.0,,,,,
+Brigid Dawson and The Mothers Network,Ballet of Apes,Psychedelic Folk,"May 22, 2020",http://open.spotify.com/album/6idL156uolA1BkP1nduQfn,40.0,69.16666666666667,1,0,0,,,,,,40.0
+King Krule,Man Alive!,Art Rock,"February 21, 2020",http://open.spotify.com/album/7MLDnEVUacleMDICnnAWuF,41.0,69.33333333333333,1,0,0,41.0,,,,,
+Heather Leigh,Glory Days,Avant-Folk,"June 26, 2020",No Spotify Link Found,41.0,69.33333333333333,1,0,0,,,,41.0,,
+Romare,Home,Deep House,"July 31, 2020",http://open.spotify.com/album/2IDeHNJEmYrS14aEFCYgpN,41.0,69.33333333333333,1,0,0,,,,,41.0,
+Lamin Fofana,Blues,Ambient,"July 2, 2020",No Spotify Link Found,42.0,69.5,1,0,0,,,,42.0,,
+The Heliocentrics,Infinity of Now,Nu Jazz,"February 14, 2020",http://open.spotify.com/album/6ygw7R7IcMI7BasTbzRSqT,42.0,69.5,1,0,0,,,,,42.0,
+Róisín Murphy,Róisín Machine,Nu-Disco,"October 2, 2020",http://open.spotify.com/album/5WpDQt6EbpzXbqo9g9P0L6,42.0,69.5,1,0,0,,,,,,42.0
+Bill Fay,Countless Branches,Singer-Songwriter,"January 17, 2020",http://open.spotify.com/album/1a1K5r92gK3xGpM7K7xVzk,42.0,69.5,1,0,0,,42.0,,,,
+Sarah Davachi,"Cantus, Descant",Drone,"September 18, 2020",http://open.spotify.com/album/6QQlw7AOPEaL3ot8V211cV,43.0,69.66666666666667,1,0,0,,,,,,43.0
+Blake Mills,Mutable Set,Singer-Songwriter,"May 8, 2020",http://open.spotify.com/album/3WBhKuBk77KL4nUHkP2xaW,43.0,69.66666666666667,1,0,0,,43.0,,,,
+Mush,3D Routine,Art Punk,"February 14, 2020",http://open.spotify.com/album/51Ff1ezUaJUmM69Vc4j0A1,43.0,69.66666666666667,1,0,0,,,,,43.0,
+Samia,The Baby,Singer-Songwriter,"August 28, 2020",http://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6,43.0,69.66666666666667,1,0,0,,,43.0,,,
+Drab City,Good Songs For Bad People,Trip Hop,"June 12, 2020",http://open.spotify.com/album/3dVpNXjDFStTQ57vBWwVjK,43.0,69.66666666666667,1,0,0,43.0,,,,,
+Eddie Chacon,"Pleasure, Joy and Happiness",Neo-Soul,"July 31, 2020",No Spotify Link Found,44.0,69.83333333333333,1,0,0,,,,,,44.0
+Shopping,All Or Nothing,Post-Punk,"February 7, 2020",http://open.spotify.com/album/3Nvg44zb0oK9BR2gdDanum,44.0,69.83333333333333,1,0,0,,,,,44.0,
+North Americans,Roped In,Singer-Songwriter,"October 9, 2020",No Spotify Link Found,44.0,69.83333333333333,1,0,0,44.0,,,,,
+KeiyaA,"Forever, Ya Girl",Neo-Soul,"March 27, 2020",http://open.spotify.com/album/6bMdCDoTp3dLXiG1oXRGYV,44.0,69.83333333333333,1,0,0,,,44.0,,,
+Teleplasmiste,To Kiss Earth Goodbye,Ambient,"June 5, 2020",No Spotify Link Found,44.0,69.83333333333333,1,0,0,,,,44.0,,
+Pearl Jam,Gigaton,Alternative Rock,"March 27, 2020",http://open.spotify.com/album/0EewHRl3pc0R5pBxTAexVm,44.0,69.83333333333333,1,0,0,,44.0,,,,
+Bright Eyes,Down in the Weeds Where the World Once Was,Indie Folk,"August 21, 2020",http://open.spotify.com/album/1GMHBkCYVzWqrrczVDBJKm,45.0,70.0,1,0,0,,,,,,45.0
+Baxter Dury,The Night Chancers,Synthpop,"March 20, 2020",http://open.spotify.com/album/1LCoVpaGVLibfCMmVyRaYH,45.0,70.0,1,0,0,,,,45.0,,
+Jess Williamson,Sorceress,Singer-Songwriter,"May 15, 2020",http://open.spotify.com/album/4PFQNELzkJ1AFwb9GsQc26,45.0,70.0,1,0,0,45.0,,,,,
+Pole,Fading,IDM,"November 6, 2020",http://open.spotify.com/album/66bDcaOv0moGHoaeAY5vT6,45.0,70.0,1,0,0,,,,,45.0,
+illuminati hotties,FREE I​.​H: This Is Not The One You've Been Waiting For,Indie Rock,"July 17, 2020",http://open.spotify.com/album/1DGMVrNrgevKdEsKW8G4uZ,45.0,70.0,1,0,0,,,45.0,,,
+Catholic Action,Celebrated By Strangers,Pop Rock,"March 27, 2020",http://open.spotify.com/album/5ZK5xH246gpB10AvNKRo5m,46.0,70.16666666666667,1,0,0,,,46.0,,,
+Young Knives,Barbarians,Industrial Rock,"September 18, 2020",http://open.spotify.com/album/0kCR8myLUcKjHtthnNpLfT,46.0,70.16666666666667,1,0,0,,,,46.0,,
+Roger Eno & Brian Eno,Mixing Colours,Ambient,"March 20, 2020",No Spotify Link Found,46.0,70.16666666666667,1,0,0,,,,,,46.0
+Eartheater,Phoenix: Flames Are Dew Upon My Skin,Avant-Folk,"October 2, 2020",http://open.spotify.com/album/7sc80uUN9dNdVB325D7XZ5,46.0,70.16666666666667,1,0,0,46.0,,,,,
+Nick Mason's Saucerful Of Secrets,Live at the Roundhouse,Psychedelic Rock,"April 17, 2020",No Spotify Link Found,46.0,70.16666666666667,1,0,0,,46.0,,,,
+Riches,Fantasy Chapel,Synthpop,"September 25, 2020",http://open.spotify.com/album/5c2AaesPf54kIk8FL1pi4M,47.0,70.33333333333333,1,0,0,47.0,,,,,
+Working Men's Club,Working Men's Club,Synthpop,"October 2, 2020",http://open.spotify.com/album/4Uzll2pB5SnmC0rulgDHyB,47.0,70.33333333333333,1,0,0,,,,,,47.0
+Still House Plants,Fast Edit,Experimental Rock,"August 14, 2020",No Spotify Link Found,47.0,70.33333333333333,1,0,0,,,,47.0,,
+Tricky,Fall to Pieces,Trip Hop,"September 4, 2020",http://open.spotify.com/album/1Ub34iySvUKpXmgwnHhIq9,47.0,70.33333333333333,1,0,0,,47.0,,,,
+Aquiles Navarro & Tcheser Holmes,‎Heritage of the Invisible II,Avant-Garde Jazz,"October 23, 2020",No Spotify Link Found,47.0,70.33333333333333,1,0,0,,,,,47.0,
+Nadia Reid,Out of My Province,Indie Folk,"March 6, 2020",http://open.spotify.com/album/37ymm9QGZFi1sAQJrQZCzI,48.0,70.5,1,0,0,,48.0,,,,
+Bob Mould,Blue Hearts,Alternative Rock,"September 25, 2020",http://open.spotify.com/album/13ioe4Gi99cfMH1glnKOUN,48.0,70.5,1,0,0,,,,,48.0,
+Young Ejecta,Ride Lonesome,Synthpop,"June 26, 2020",No Spotify Link Found,48.0,70.5,1,0,0,48.0,,,,,
+Junglepussy,Jp4,Experimental Hip Hop,"October 23, 2020",http://open.spotify.com/album/5agYNY4IFgl4yQ3gIGLW65,48.0,70.5,1,0,0,,,,48.0,,
+Ganser,Just Look At That Sky,Post-Punk,"July 31, 2020",http://open.spotify.com/album/1cagbnm4myBo9g2W8pQ7o3,49.0,70.66666666666667,1,0,0,,,49.0,,,
+Katie Gately,Loom,Art Pop,"February 14, 2020",http://open.spotify.com/album/11uiI31NHmmsReHiPMbsDq,49.0,70.66666666666667,1,0,0,,,,49.0,,
+Gwenifer Raymond,Strange Lights Over Garth Mountain,Country,"November 13, 2020",http://open.spotify.com/album/5KyXUkcCGN6Gb9sVKXyQ3N,49.0,70.66666666666667,1,0,0,,,,,,49.0
+The Green Child,Shimmering Basset,Ambient,"October 16, 2020",No Spotify Link Found,49.0,70.66666666666667,1,0,0,49.0,,,,,
+Sufjan Stevens,The Ascension,Indietronica,"September 25, 2020",http://open.spotify.com/album/1tYHjJ50WowcNvDTLdf6Wo,50.0,70.83333333333333,1,0,0,,50.0,,,,
+Blóm,Flower Violence,Art Punk,"May 1, 2020",http://open.spotify.com/album/1AqkyLpbRQnbaWwgWKAIZP,50.0,70.83333333333333,1,0,0,,,,50.0,,
+Gum Country,Somewhere,Lo-Fi,"June 19, 2020",http://open.spotify.com/album/7tQGmUPDjvfl1t3dam08Of,50.0,70.83333333333333,1,0,0,,,50.0,,,
+Nick Hakim,WILL THIS MAKE ME GOOD,Psychedelic Soul,"May 15, 2020",http://open.spotify.com/album/5wHIOaV0DXf73kL7i5blmM,50.0,70.83333333333333,1,0,0,,,,,50.0,
