@@ -23,7 +23,10 @@ class Album:
         self.artist, self.title = id_split
         self.position = position
         self.date = tag.find_next('div', {'class': 'albumListDate'}).text
-        self.genre = tag.find_next('div', {'class': 'albumListGenre'}).text
+        try:
+            self.genre = tag.find_next('div', {'class': 'albumListGenre'}).text
+        except Exception:
+            self.genre = ""
         try:
             self.spotify = tag.find_next('div', {'class': 'albumListLinks'}). \
                            find('a', {'data-track-action': 'Spotify'})['href']
